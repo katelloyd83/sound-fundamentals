@@ -25,21 +25,24 @@ li li {
 	margin-bottom: 0;
 }
 
-h1:first-child {
+.page-title {
 	font-size: 6rem;
 	font-weight: 100;
 	margin-top: $spacer * 5;
+    margin-top: $spacer * 12;
+    margin-bottom: $spacer * 3;
+    text-align: center;
 }
 
 @include media-breakpoint-down(md) {
-	h1:first-child {
+	.page-title {
 		font-size: 4rem;
 		font-weight: 100;
 		margin-top: $spacer * 5;
 	}
 }
 @include media-breakpoint-down(sm) {
-	h1:first-child {
+	.page-title {
 		font-size: 3rem;
 		font-weight: 100;
 		margin-top: $spacer * 5;
@@ -154,7 +157,7 @@ script + table {
 
 blockquote {
 	color: white;
-	background: lighten($brand-light, 0%);
+	background: lighten($brand-dark, 0%);
 	font-style: oblique;
 	padding: 2em 2em 0.5em 2em;
 	margin-top: $spacer * 2;

@@ -38,9 +38,9 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-jumbotron_color: "#8c8e90"
+jumbotron_color: "#d9a5b3"
 jumbotron_background_image: "header.svg"
-jumbotron_image: "MART_LOGO_SMALL.png"
+jumbotron_image: "UM-CAM-SVMA.png"
 
 theme: jekyll-theme-slate
 

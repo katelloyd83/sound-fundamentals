@@ -51,6 +51,14 @@ layout: base
 
         <div class="col-sm-12 col-md-11 col-lg-9 content">
 
+            {% if page.top %}
+            <div class="page-title">{{ page.top }}</div>
+            {% endif %}
+
+            {% if page.toc %}
+            {% include toc.html html=content %}
+            {% endif %}
+
 			{{ content }}
 
 

@@ -4,7 +4,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/modules/week-11/overview">
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
         <div class="navbar-brand">
             <div class="">
                 {{ site.data.course.title-short }}
@@ -39,10 +39,6 @@
                 </div>
             </li>
 
-            <!-- Course Repo Link -->
-            <a class="nav-item nav-link px-2 pb-0 mb-0" href="https://github.com/Montana-Media-Arts/220-creative-coding2-Spring2020-course/issues" target="_blank">
-                Issues-Forum
-            </a>
 
             <!-- Syllabus, Instructor, and Dates -->
             {% for module in site.data.course.infoModules %} {% assign first_post = site.categories[module]|reverse|first %}
@@ -59,8 +55,8 @@
     </div>
 
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/modules/week-11/overview">
-        <img src="{{ site.baseurl }}/img/MART_LOGO_SMALL.png" alt="{{ site.title }}" class="nav_image d-inline-block align-top" />
+    <a class="navbar-brand" href="https://www.umt.edu/svma/">
+        <img src="{{ site.baseurl }}/img/UM-CAM-SVMA-WHITE.png" alt="{{ site.title }}" class="nav_image d-inline-block align-top" />
     </a>
 
 </nav>
