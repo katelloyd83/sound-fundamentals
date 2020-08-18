@@ -55,8 +55,8 @@ layout: base
             <div class="page-title">{{ page.top }}</div>
             {% endif %}
 
-            {% if page.toc %}
-            {% include toc.html html=content %}
+            {% if page.toc != false %}
+            <div class="toc">{% include toc.html html=content %}</div>
             {% endif %}
 
 			{{ content }}

@@ -1,6 +1,6 @@
 
 body {
-	line-height: 1.6;
+	line-height: 1.0;
     overflow-x: hidden !important;
 }
 
@@ -11,6 +11,7 @@ body {
 
 p, ul, ol, blockquote {
 	margin-bottom: $spacer * 2;
+    line-height: 1.5;
 }
 
 li {
@@ -25,32 +26,40 @@ li li {
 	margin-bottom: 0;
 }
 
+// link underline
+.content {
+    a {
+        border-bottom: 3px solid $link-color;
+    }
+}
+
 .page-title {
 	font-size: 6rem;
 	font-weight: 100;
 	margin-top: $spacer * 5;
-    margin-top: $spacer * 12;
-    margin-bottom: $spacer * 3;
+    margin-bottom: $spacer * 1;
     text-align: center;
 }
+
+
 
 @include media-breakpoint-down(md) {
 	.page-title {
 		font-size: 4rem;
 		font-weight: 100;
-		margin-top: $spacer * 5;
+		margin-top: $spacer * 3;
 	}
 }
 @include media-breakpoint-down(sm) {
 	.page-title {
 		font-size: 3rem;
 		font-weight: 100;
-		margin-top: $spacer * 5;
+		margin-top: $spacer * 2;
 	}
 }
 
 h1 {
-	margin-top: $spacer * 12;
+	margin-top: $spacer * 10;
 	margin-bottom: $spacer * 3;
 	text-align: center;
 }
@@ -67,18 +76,11 @@ h2, h3, h4 {
 @include media-breakpoint-down(md) {
 	h1 {
 		font-size: $h1-font-size * 0.87;
+        margin-top: $spacer * 6;
 	}
-	h2 {
+	h2, h3, h4, h5 {
 		font-size: $h2-font-size * 0.87;
-	}
-	h3 {
-		font-size: $h3-font-size * 0.87;
-	}
-	h4 {
-		font-size: $h4-font-size * 0.87;
-	}
-	h5 {
-		font-size: $h5-font-size * 0.87;
+        margin-top: $spacer * 3;
 	}
 	h6 {
 		font-size: 1rem;
@@ -105,6 +107,25 @@ h2, h3, h4 {
 	}
 }
 
+.toc {
+    background: $brand-accent;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 0.5rem;
+    ul {
+        li {
+            margin-bottom: 0rem;
+            ul{
+                margin-bottom: 0rem;
+            }
+            a {
+                border-bottom: none;
+                color: $brand-dark;
+            }
+        }
+    }
+}
 
 table {
 	width: 100%;
@@ -182,12 +203,7 @@ blockquote {
 
 
 
-// link underline
-.content {
-    a {
-        border-bottom: 3px solid $link-color;
-    }
-}
+
 
 
 
