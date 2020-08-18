@@ -34,11 +34,13 @@ li li {
 }
 
 .page-title {
-	font-size: 6rem;
-	font-weight: 100;
-	margin-top: $spacer * 5;
-    margin-bottom: $spacer * 1;
+    font-family: $headings-font-family;
+	font-size: 5rem;
+	font-weight: 200;
+	margin-top: $spacer * 8;
+    margin-bottom: $spacer * 6;
     text-align: center;
+    line-height: 1.2;
 }
 
 
@@ -46,22 +48,24 @@ li li {
 @include media-breakpoint-down(md) {
 	.page-title {
 		font-size: 4rem;
-		font-weight: 100;
 		margin-top: $spacer * 3;
 	}
 }
 @include media-breakpoint-down(sm) {
 	.page-title {
 		font-size: 3rem;
-		font-weight: 100;
 		margin-top: $spacer * 2;
 	}
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: $headings-font-family;
+}
 h1 {
 	margin-top: $spacer * 10;
 	margin-bottom: $spacer * 3;
 	text-align: center;
+    font-weight: 600;
 }
 
 h2, h3, h4 {

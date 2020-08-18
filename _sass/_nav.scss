@@ -21,12 +21,22 @@
 @include media-breakpoint-down(md) {
     .nav_image {
         max-height: 30px;
+        order: 0;
     }
     .navbar-brand {
         font-size: 1rem;
+        order: 1;
     }
     .navbar-toggler {
         font-size: 1rem;
+        order: 3;
+    }
+    .dropdown-menu {
+        font-size: 1rem;
+        order: 4;
+    }
+    .navbar-collapse {
+        order: 10;
     }
 }
 
@@ -35,7 +45,7 @@
         max-height: 20px;
     }
     .navbar-brand {
-        font-size: 0.75rem;
+        font-size: 0.9rem;
     }
     .navbar-toggler {
         font-size: 0.75rem;

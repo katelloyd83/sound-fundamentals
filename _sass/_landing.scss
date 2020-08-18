@@ -48,11 +48,13 @@ section {
 		font-family: $headings-font-family;
 		// font-family: "Open Sans";
 		font-size: 4em;
-		font-weight: $headings-font-weight;
+		font-weight: 600;
+        margin-bottom: 1rem;
 	}
 
 	h2 {
 		font-family: $headings-font-family;
+        margin-top: 0;
 		// font-family: "Open Sans";
 		font-size: 3em;
 	}
