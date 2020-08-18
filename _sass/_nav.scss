@@ -12,6 +12,10 @@
     max-height: 100px;
 }
 
+.dropdown-menu, .navbar-collapse {
+    font-size: 1.25rem;
+}
+
 @include media-breakpoint-down(lg) {
     .nav_image {
         max-height: 60px;
@@ -102,7 +106,7 @@
 
 .module-nav-item {
     line-height: 1;
-    font-size: $font-size-base * 0.7;
+    font-size: $font-size-base;
 
     a {
         color: $gray-200;
@@ -132,10 +136,12 @@
 .active-week {
     // text-align: center;
     color: $white;
+    font-size: $font-size-base * 1.25;
 }
 .active-due-date {
     // text-align: center;
     color: $white;
+    font-size: $font-size-base * 1.25;
 }
 
 @include media-breakpoint-down(lg) {
