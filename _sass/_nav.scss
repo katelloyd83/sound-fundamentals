@@ -114,6 +114,21 @@
 }
 
 
+.footer-nav {
+    padding-bottom: 2rem;
+    .foot-nav-element {
+        padding: 1rem;
+    }
+    .foot-nav-element:hover {
+        background: $brand-accent;
+    }
+}
+.nav-link{
+    padding: 0;
+    color: $brand-compliment-2;
+}
+
+
 .active-week {
     // text-align: center;
     color: $white;
