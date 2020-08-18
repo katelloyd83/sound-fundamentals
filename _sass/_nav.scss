@@ -133,26 +133,22 @@
 }
 
 
-.active-week {
-    // text-align: center;
-    color: $white;
-    font-size: $font-size-base * 1.25;
-}
-.active-due-date {
+.due-date {
     // text-align: center;
     color: $white;
     font-size: $font-size-base * 1.25;
 }
 
 @include media-breakpoint-down(lg) {
+
     .due-date {
-        font-size: $font-size-base * 0.85;
+        font-size: $font-size-base;
     }
 }
 
 @include media-breakpoint-down(sm) {
     .due-date {
-        font-size: $font-size-base * 0.5;
+        font-size: $font-size-base * 0.7;
         flex-direction: column;
     }
 }
