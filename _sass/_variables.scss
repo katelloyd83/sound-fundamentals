@@ -4,14 +4,12 @@
 //== Colors
 //
 //## Gray and brand colors for use across Bootstrap.
-$brand-primary : #101820FF;
-$brand-dark : #101820FF;
-$brand-light : #c6d7eb;
-$brand-compliment-1 : #d9a5b3;
-$brand-compliment-2 : #1868ae;
-$brand-accent : $brand-light;
-// Link Color
-$link-color: $brand-dark;
+$brand-primary : #f92672;
+$brand-dark : #373e42;
+$brand-light : #C0B283;
+$brand-compliment-1 : #C0B283;
+$brand-compliment-2 : #e9d28a;
+$brand-accent : $brand-primary;
 // $link-color: $brand-light;
 $white : #fff !default;
 $gray-100: #f8f9fa !default;
