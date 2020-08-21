@@ -1,5 +1,5 @@
 ---
-title: Course Introduction
+title: Instructors
 module: 1
 toc: true
 topic: Instructor Information
@@ -43,11 +43,12 @@ For anyone wanting to setup an appointment immediately, please feel free to setu
 
 
 
-<!--
-## Teaching Assistant - TBA
+## Teaching Assistant - Charlie Apple
 
-We will have a Teaching Assistant. When this person contact is available, I will email the class. I will also post their information in the ["Instructors"]({{site.baseurl}}/instructors/) tab.
+In addition to myself, Charlie Apple, an MFA student in Media Arts will be serving as the Teaching Assistant for this semester.
 
-If you are unable to solve problems on your own or through the course "issues forum" (more to come on that later), you should e-mail the TA for help.
--->
-<!-- video -->
+If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail the TA for help.
+
+- [charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=330%20Question)
+
+Additionally, Charlie will be available throughout the week for you to setup individual Zoom meetings with where he can assist you with problems you are having.

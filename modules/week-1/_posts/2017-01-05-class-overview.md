@@ -10,15 +10,11 @@ topic: What Will This Course Be Like?
 
 Now that you have gone through the syllabus, along with its technical details and policies, let's talk about what this course will actually look like.
 
-## Text & Reading
+## Content
 
-There will be a lot of reading.  But I will also supplement the course with some synchronous lectures to hopefully help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together even online!
+There will be a lot of reading, viewing, and listening.  But I will also supplement the course with synchronous lectures to help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together, even online!
 
-
-
-## Videos
-
-See above in the Text & Reading portion.  I will try and help by creating videos and posting ones that I think are helpful as well.
+With specific respect to videos; I will post videos of myself explaining topics, as well as videos of any synchronous lectures. I will also supplement these with videos by other practitioners and teachers. These serve to offer varying view points, clear explanations, and a break from you seeing my face all the time.
 
 
 ## Pace
@@ -70,7 +66,7 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a message to the Course Forum in Moodle.
+2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1654326).
 <!--
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
     - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
@@ -89,4 +85,5 @@ When you have problems in this course, you have a number of solutions available 
 
 
 #### { NOTE: }
+
 A quick list of these links is available from the ["Help"]({{site.baseurl}}/help/) menubar tab above.

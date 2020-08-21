@@ -27,3 +27,14 @@ Due to the ingoing Pandemic, I will not be able to hold in-person office hours. 
 <!-- Calendly inline widget end -->
 
 - General Office Hour Reservation Link [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
+
+
+## Teaching Assistant - Charlie Apple
+
+In addition to myself, Charlie Apple, an MFA student in Media Arts will be serving as the Teaching Assistant for this semester.
+
+If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail the TA for help.
+
+- [charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=330%20Question)
+
+Additionally, Charlie will be available throughout the week for you to setup individual Zoom meetings with where he can assist you with problems you are having.
