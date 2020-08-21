@@ -131,6 +131,10 @@ h2, h3, h4 {
     }
 }
 
+.toc + p {
+    margin-top: 2rem;
+}
+
 table {
 	width: 100%;
 	margin-bottom: $spacer * 2;
