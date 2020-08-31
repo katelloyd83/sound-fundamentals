@@ -1,13 +1,8 @@
 ---
-title: Weekly Introduction
-module: 1
+title: Weekly Conclusions
+module: XX
 toc: true
-topic: Week 1:&nbspWelcome
+topic: Weekly Conclusions
 ---
 
-# Weekly Conclusions
-
-
-## Next Week
-
-Next week
+This week...
