@@ -1,13 +1,10 @@
 ---
 title: Weekly Introduction
-module: 1
+module: 2
 toc: true
-topic: Week 1:&nbspWelcome
+topic: Weekly Conclusions
 ---
 
-# Weekly Conclusions
+Yeah! We have started working with a DAW. Next week we will continue looking at technical skills associated with working in DAWs.
 
-
-## Next Week
-
-Next week
+As always, if you have problems or questions, please utilize the available options discussed in the ["help" tab]({{site.baseurl}}/help). 

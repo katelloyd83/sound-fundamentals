@@ -2,7 +2,7 @@
 title: Playing Audio
 module: 2
 jotted: false
-toc: true
+toc: false
 topic: Playing Audio
 ---
 

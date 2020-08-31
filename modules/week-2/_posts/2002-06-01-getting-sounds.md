@@ -3,7 +3,7 @@ title: Getting Sound to Play With
 module: 2
 jotted: false
 toc: true
-topic: Getting Sound to Play With
+topic: Getting Sounds to Play With
 ---
 
 Since we are not using input devices initially, we will need to utilize pre-recorded digital audio files. For this week, I want you to download two or three files from the internet to play with.
