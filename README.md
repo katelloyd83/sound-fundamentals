@@ -1,21 +1,15 @@
-# MART 220 - Creative Coding 2 | Content Website
+# MART 245 - Intro to Sonic Art | Content Website
 
-This is the web-based version of Creative Coding 2 (MART 220) at the School of Media Arts, University of Montana.
-
-This course focuses on media integration, interactivity, and foundation coding.
+This is the web-based version of Intro to Sonic Art (MART 245) at the School of Visual and Media Arts, University of Montana.
 
 
 
-- [Creative Coding Website](https://montana-media-arts.github.io/220-creative-coding2-Spring2020-course/modules/week-11/overview)
+- [Intro to Sonic Art Website](https://montana-media-arts.github.io/intro-to-sonic-arts)
 
 
 ### Updated By:
 
-- Professor Michael Cassens
-- E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
-- Office: McGill Hall, 230.
+- Professor Michael Musick
+- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
+- Office: McGill Hall, 232.
 
-
-### Updated
-
-This course was last updated: 2020-3-13
