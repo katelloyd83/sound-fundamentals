@@ -27,6 +27,10 @@ R. Murray Schafer is a Canadian composer, who is best known for his work definin
 
 Schafer is also credited with creating [The World Soundscape Project](http://www.sfu.ca/~truax/wsp.html), which aims to capture, with the goal of preserving, the soundscapes of our world.
 
+Please also read through page 28 (Introduction and Part One) of;
+
+[Schafer, R. Murray. The Soundscape: Our Sonic Environment and the Tuning of the World. Inner Traditions/Bear, 1993.](https://moodle.umt.edu/pluginfile.php/2178064/mod_resource/content/0/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf)
+
 
 # Acoustic Ecology
 
