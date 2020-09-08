@@ -25,6 +25,8 @@ R. Murray Schafer is a Canadian composer, who is best known for his work definin
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rOlxuXHWfHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+- _If you want more info about this video, please visit: [www.nfb.ca/film/listen/](https://www.nfb.ca/film/listen/)
+
 Schafer is also credited with creating [The World Soundscape Project](http://www.sfu.ca/~truax/wsp.html), which aims to capture, with the goal of preserving, the soundscapes of our world.
 
 Please also read through page 28 (Introduction and Part One) of;
