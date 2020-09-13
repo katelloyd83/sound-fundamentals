@@ -45,8 +45,13 @@ This is not to suggest that there is no ego in more traditional soundscape works
 <br />
 
 
-> ## Interesting Sound Artists in Field Recording
->
+## Interesting Sound Artists in Field Recording
+
+
 > Please also read the following article (and listen to examples) exploring 10 field recording based sound artists.
 >
 > [10 of the Most Interesting Field Recordists Working Across Aesthetic Boundaries – Soundfly](https://flypaper.soundfly.com/discover/10-of-the-most-interesting-field-recordists-working-across-aesthetic-boundaries/)
+
+Please also watch the following video on field-recording artists working at the edge of soundscape art;
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/esfUwg1-xrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
