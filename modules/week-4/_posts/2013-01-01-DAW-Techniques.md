@@ -8,6 +8,31 @@ topic: DAW Techniques for This Week
 
 There are a few techniques that will help you in your work this week.
 
+## Save Project and Store New Media to "Media" Directory
+
+When we open Reaper, the first thing to do is Create a "New Project". This will be necessary if Reaper reopened a previously open session. You can create a new project under the main File Menu.
+
+After creating a new project, before we do ANYTHING ELSE, we should save the project. When you save your project remember to do the following;
+
+1. Select a parent directory where all of your sonic art projects are being stored. (_Hopefully in a cloud-based storage location_).
+2. Label it something meaningful (this week might be `FieldRecordings1`)
+3. Append the date of the project after the name (for me this might result in: `FieldRecordings1-09112020`)
+4. Ensure that "Create subdirectory for project" is selected.
+
+![Save window, with highlighted changes above](../imgs/save-window.png "Save window, with highlighted changes above")
+
+After saving your project, I want you to also ensure the following (which you should do with each new Reaper project)
+
+1. Open Project Settings (This is accessed under the main File menu).
+2. Navigate to the "Media" tab
+3. Add a relative "Media" directory, this is where all added, or recorded media will be placed, relative to your project directory path.
+4. Change "On import of media to project:" to "Copy Media to Project Path".
+5. Insure that WAV, is the file type for new recordings.
+6. Set "WAV bit depth: " to "32 bit FP"
+7. Finally, press "Save as default project settings"
+
+![Example of changes to Project Settings](../imgs/project-settings.png "Example of changes to Project Settings")
+
 ## Reminder on Splicing
 
 To splice audio, place the selection marker where you want to separate your audio file. Then press the 'S' key. This will splice your file at that point.
