@@ -33,7 +33,11 @@ After saving your project, I want you to also ensure the following (which you sh
 
 ![Example of changes to Project Settings](../imgs/project-settings.png "Example of changes to Project Settings")
 
+You are now ready to drag in your audio, and begin chosing your selections for this week.
+
 ## Reminder on Splicing
+
+After you import your audio, you will need to audition your captures to pick the desired selections, After identifying the selections, you will need to splice them to create smaller audio items/regions.
 
 To splice audio, place the selection marker where you want to separate your audio file. Then press the 'S' key. This will splice your file at that point.
 
