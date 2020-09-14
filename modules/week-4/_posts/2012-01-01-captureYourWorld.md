@@ -6,6 +6,8 @@ toc: true
 topic: Capture Your World
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dsWPQfhVQ60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Your main goal this week is to go out and capture field recordings of your world.
 
 I want you to approach this two ways.
@@ -32,6 +34,8 @@ In testing this assignment, I walked around campus and took 10 recordings in 5 l
 
 Although I certainly did not set out to capture a "musical" moment, I was engaged with this recording for its capture of the carillon (the bells that are played from main hall). The carillon was playing patriotic selections, and I realized this was in honor of 9/11, which was the day I captured this soundscape. I found the relationship between the patriotic music, the long decay and sustain of the bells at moments of musical pause, and the sound events of students playing volleyball to represent a moment of normalcy, during a pandemic, on a a day of remembrance. It was a powerful combination for me. But, perhaps more engaging, is the complex sound in those moments of sustain by the bells, while the sounds of people on the oval slowly overtake them.
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1498841382/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=126323811/transparent=true/" seamless><a href="https://michaelmusick.bandcamp.com/album/examples-from-intro-to-sonic-art">Examples from Intro to Sonic Art by Michael Musick</a></iframe>
+
 <!-- Place in recording here. -->
 
 ## 2. Unique Field Recording
@@ -48,7 +52,8 @@ I tried three locations for this project. The first was on-top of a metallic box
 
 For me, this last placement produced the most engaging example. I enjoyed how the resonant properties of the pipe filtered the sound and created an "other-worldly" recording. The events picked up are primarily people walking, the far off sounds of people drumming, and some sounds of people talking. But all of these events interact with each other, and the sonic properties of the bike rack in un-natural ways. I like this ability to capture the world not as we are accustomed to it normally, but as though we had been able to place our head in this 1-inch diameter pipe.
 
-<!-- insert recording -->
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1498841382/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=3905826912/transparent=true/" seamless><a href="https://michaelmusick.bandcamp.com/album/examples-from-intro-to-sonic-art">Examples from Intro to Sonic Art by Michael Musick</a></iframe>
 
 ![Close shot of the bike rack pipe, as well as the placement of the phone](../imgs/soundscape2-bikeRackClose.jpeg "Close shot of the bike rack pipe, as well as the placement of the phone")
 

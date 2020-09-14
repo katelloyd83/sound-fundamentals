@@ -112,3 +112,8 @@ This will bring up another option window. Depending on the size of your file, yo
 Now that the file is on your computer, you can drop it in Reaper like you learned to do with audio files two weeks ago! There you should be able to play it back, edit it, and use it as source material in your sound art pieces.
 
 ![Drop file into Reaper](../imgs/audio2Reaper.png "Drop file into Reaper")
+
+
+# Video Walkthrough
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QEjgEnNGB4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
