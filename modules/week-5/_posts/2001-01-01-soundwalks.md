@@ -14,11 +14,11 @@ Whereas in experiencing a soundscape, you would sit still, the only thing you ch
 
 Hildegard Westerkamp is credited with the creation of this term and practice. Please read about her:
 
-- [Biography | Hildegard Westerkamp](https://www.hildegardwesterkamp.ca/bio/)
+- [Biography - Hildegard Westerkamp](https://www.hildegardwesterkamp.ca/bio/)
 
 I would also like you to read the following writing about soundwalk's by Westerkamp from one of her works _NADA_. In particular, I want you to pay attention to how she relates soundwalks to soundscape. Additionally, there is a list of tips for a soundwalk. Please take a soundwalk, and contemplate each of these tips individually while on your walk.
 
-- [Sound Walk | Hildegard Westerkamp](https://www.hildegardwesterkamp.ca/sound/installations/Nada/soundwalk/)
+- [Sound Walk - Hildegard Westerkamp](https://www.hildegardwesterkamp.ca/sound/installations/Nada/soundwalk/)
 
 I would also like you to read the following two articles further discussing soundwalks.
 
