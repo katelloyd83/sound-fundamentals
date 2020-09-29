@@ -6,6 +6,8 @@ toc: true
 topic: Introduction to Mixing
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fYFpCF0m52M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 **_Mixing_**, for me, has two goals. The first is to get all of the sounds the constitute a sonic art work/project to work together. The second goal is to create the most meaningful representation of the piece that is possible for the desired output medium or mode of presentation.
 
 Essentially, mixing can be thought of in the moment-to-moment of getting sounds to work with each other. It can also be thought of in the totality, in getting a project or work to sound good from start to finish.

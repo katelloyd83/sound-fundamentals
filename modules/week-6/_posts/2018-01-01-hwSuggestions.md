@@ -168,7 +168,7 @@ Bounce your sound work out. If you need help doing this, I suggest you follow th
 
 The final thing I want you to do is take a screen shot of Reaper. To do this, make Reaper as large as it can go on your computer screen. Then please also show automation lanes for any tracks in which you included automation. Then press Command or Control and scroll up or down to resize the height of your tracks so that as many as possible fit in the window. Finally, zoom in or out horizontally, to show as much of your project as possible. (You might also shrink the height of the mixer)
 
-![Resize Reaper Screen](../imgs/resize.png "Resize Reaper Screen")
+![Resize Reaper Screen](../imgs/resize.gif "Resize Reaper Screen")
 
 
 

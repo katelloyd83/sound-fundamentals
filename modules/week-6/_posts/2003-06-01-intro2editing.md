@@ -6,7 +6,7 @@ toc: true
 topic: Introduction to Editing
 ---
 
-
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VeD2uCE-14Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 **_Editing_** is one of the processes that is potentially easier now in the DAW-based studio, than was possible in the tape-based studios of the 20th century. **_Editing_** is the process of cutting, splicing, and arranging audio sections in relationship to time and each other. As you have already experienced, the modern DAW allows for great control and flexibility in the editing process.

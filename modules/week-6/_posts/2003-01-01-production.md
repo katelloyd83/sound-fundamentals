@@ -6,6 +6,8 @@ toc: true
 topic: Project Life Cycle
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8DyQnILUpnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 We are starting to move into conversations about editing and mixing techniques this week. These two terms are central to the idea of sound or audio production, which will be considered a part of and necessary to the practice of sonic art.
 
 In this case, **_production_** includes time, technical skills, equipment, and the process of creating/composing, recording, and preparing sound works (be they sonic art, music, podcasts, sound for film, sound for theater, etc.) for use, presentation, or distribution. Audio production includes the entire process of working with sound and audio, typically in a studio.
