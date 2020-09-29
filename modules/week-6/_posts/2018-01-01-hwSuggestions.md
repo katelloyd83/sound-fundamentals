@@ -183,3 +183,6 @@ Here is an example track for you to listen to. This composed soundwalk includes 
 If you want to check out the techniques I used, you are welcome to also download the session.
 
 - [Session File Download](https://umt.box.com/s/zk02gcx4mkwndukpnulrj1b789fi571w)
+
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5uMnhZ3GIps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
