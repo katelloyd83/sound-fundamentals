@@ -1,6 +1,15 @@
 ---
 ---
 
+.svgWithText {
+	font-family: 'Lato', sans-serif;
+	font-size: 10px;
+
+	user-select: none;
+	-moz-user-select: none;
+  	-webkit-user-select: none;
+}
+
 .displayed_code_example,
 .displayed_jotted_example iframe {
     font-family: serif;

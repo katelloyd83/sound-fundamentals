@@ -45,6 +45,6 @@ Please read all assigned pages within this resource carefully. There is a test a
 
 ## **_{ TODO: }_**
 
-> Please read:
->
-> ["1. Introduction" in Chapter One: An Acoustics Primer, from Introduction to Computer Music](https://cmtext.indiana.edu/acoustics/chapter1_intro.php)
+Please read:
+
+- ["1. Introduction" in Chapter One: An Acoustics Primer, from Introduction to Computer Music](https://cmtext.indiana.edu/acoustics/chapter1_intro.php)
