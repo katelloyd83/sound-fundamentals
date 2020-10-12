@@ -1,0 +1,2 @@
+frequency spectram
+spectrogram
