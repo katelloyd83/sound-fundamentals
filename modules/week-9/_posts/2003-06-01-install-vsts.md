@@ -98,6 +98,8 @@ These plug-ins come with installers, so, they should install themselves automati
 - [Valhalla Space Modulator: Flanger Plugin - Valhalla DSP Plugins](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Freq Echo: Freqency Shifter Plugin - Free Reverb Plugin](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 
+{% comment %}
+
 ### ++audio
 
 Finally, please install the "Rubbadub" delay plug-in from ++audio.
@@ -105,6 +107,7 @@ Finally, please install the "Rubbadub" delay plug-in from ++audio.
 - [Rubbadub - ++Audio](https://ccrma.stanford.edu/~adam/++/index.php?page=effects&effect=rubbadub)
 
 Like the Valhalla Plug-Ins, these include an automated installer.
+{% endcomment %}
 
 ## Video Demo
 
