@@ -17,7 +17,7 @@ p2pu_ga_tracking_code: UA-55722824-1
 
 
 # Some files we need to exclude, so Github can build the site
-exclude: [Gemfile, Gemfile.lock, README.md]
+exclude: [Gemfile, Gemfile.lock, README.md, ATTRIBUTION, LICENSE, /_asset-development, /planning_and_development]
 
 defaults:
   -
@@ -35,6 +35,7 @@ prose:
     - /fonts
     - /js
     - /css
+    - /_asset-development
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
