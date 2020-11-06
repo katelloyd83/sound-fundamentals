@@ -7,6 +7,9 @@ math: false
 topic: Further Sonic Art Study Possibilities
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/De8GTE2ZtZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 For those wanting to further your studies with sound, there are a number of options at the University of Montana.
 
 ## Sonic Arts in SVMA

@@ -7,6 +7,13 @@ math: true
 topic: Final Project
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rIgJ4O_it4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+<br />
+
+
+
 **Due: Wednesday, November 18th @ 11:59pm**
 
 Building on all of the diverse and extensive work that you have engaged in over the course of this semester, you are expected to create a final sonic art work for this course.
