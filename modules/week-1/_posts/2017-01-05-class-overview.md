@@ -12,7 +12,7 @@ Now that you have gone through the syllabus, along with its technical details an
 
 ## Content
 
-There will be a lot of reading, viewing, and listening.  But I will also supplement the course with synchronous lectures to help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together, even online!
+There will be a lot of reading, viewing, and listening.  But I will also supplement the course with optional synchronous lectures to help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together, even online!
 
 With specific respect to videos; I will post videos of myself explaining topics, as well as videos of any synchronous lectures. I will also supplement these with videos by other practitioners and teachers. These serve to offer varying view points, clear explanations, and a break from you seeing my face all the time.
 
@@ -30,7 +30,7 @@ This course will _mostly_ run as weekly modules.
 
 When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the Thursday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, this module is opening on Friday, August 21st. Therefore, you have through next Thursday, August 27th to complete the module. Likewise, your homework is due Thursday by 11:59 PM.
+For example, Week 2's Module will open on Thursday, January 14th. Therefore, you have through next Thursday, January 21st to complete the module. Likewise, your homework is due Thursday by 11:59 PM.
 
 
 ## Homework
@@ -67,14 +67,17 @@ When you have problems in this course, you have a number of solutions available 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
 2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1654326).
-<!--
+
+{% comment %}
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
     - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
 3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
--->
-3. Get help from our Graduate Teaching Assistant, [Charlie Apple - charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=330%20Questions)
+{% endcomment %}
+3. Get help from one of our Graduate Teaching Assistants;
+	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
+	- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
 4. Get help from the professor [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
     - One way to get a hold of me is to schedule an zoom, office hours appointment with me via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).

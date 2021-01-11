@@ -32,23 +32,24 @@ For anyone wanting to setup an appointment immediately, please feel free to setu
 
 > # Bio
 >
-> Michael Musick is a sonic artist, interactive artist, composer, performer and improviser.  His current practice and research explores interactive music systems, creative improvisation, installation art, soundscape / acoustic-ecology, and interactive theory. As a performer, he uses a computer as his instrument to understand, process, amplify, and play with any sounds occurring within the performance space. Much of Michael’s work is part of his larger Sonic Spaces Project, which explores the creation of ecosystems of sound and music. This work, including performances, installations, recordings, and lectures, has been presented throughout the US and internationally.
+> Michael Musick is a sonic artist, interactive artist, composer, performer and improviser. His current practice and research explores interactive music systems, creative improvisation, installation art, soundscape / acoustic-ecology, and interactive theory. As a performer, he uses a computer as his instrument to understand, process, amplify, and play with any sounds occurring within the performance space. Much of Michael’s work is part of his larger Sonic Spaces Project, which explores the creation of ecosystems of sound and music. This work, including performances, installations, recordings, and lectures, has been presented throughout the US and internationally.
 >
-> Michael is currently at the University of Montana as an Associate Professor of Media Arts. There he leads the Sonic Arts program and is also deeply involved within interactive art and the media art MFA program. The courses he teaches focus on preparing students to use sound as a medium, to consider how interaction is art, and to utilize technology as creative extensions for their own artistic voices and ideas.
+> Michael is currently at the University of Montana as an Associate Professor in the College of the Arts and Media. There he leads the Sonic Arts program, is deeply involved within interactive art, and works with the media art MFA program. The courses he teaches focus on preparing students to use sound as a medium, to consider how interaction is art, and to utilize technology as creative extensions for their own artistic voices and ideas.
 >
-> Prior to Montana, Michael was at New York University, where he earned a PhD in Music Technology. There, he was part of the Computer Music Group within NYU's Music and Audio Research Lab (MARL) and the Citygram research group.  Prior to NYU, he earned an M.A. in Media Arts from the University of Michigan, where he began his work with performance systems while continuing his studies in creative improvisation and multi-media performance.  Michael also has a background in tuba performance and recording arts; holding performance degrees from The University of Southern California (M.Mus ’09) and The University of Colorado, Boulder (B.Mus ’07). Originally from the Denver, Colorado area, Michael is a lover of the mountains, snow, and wandering among trees.
+> Prior to Montana, Michael was at New York University, where he earned a PhD in Music Technology. There, he was part of the Computer Music Group within NYU's Music and Audio Research Lab (MARL) and the Citygram research group. Prior to NYU, he earned an M.A. in Media Arts from the University of Michigan, where he began his work with performance systems while continuing his studies in creative improvisation and multi-media performance. Michael also has a background in tuba performance and recording arts; holding performance degrees from The University of Southern California (M.Mus ’09) and The University of Colorado, Boulder (B.Mus ’07). Originally from the Denver, Colorado area, Michael is a lover of the mountains, snow, and wandering among trees.
 >
 > For more information please visit his personal site at [michaelmusick.com](https://michaelmusick.com).
 >
 
 
 
-## Teaching Assistant - Charlie Apple
+## Teaching Assistants
 
-In addition to myself, Charlie Apple, an MFA student in Media Arts will be serving as the Teaching Assistant for this semester.
+In addition to myself, we will be supported with two teaching assistants this semester.
 
-If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail the TA for help.
+If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=330%20Question)
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
+- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
 
-Additionally, Charlie will be available throughout the week for you to setup individual Zoom meetings with where he can assist you with problems you are having.
+Additionally, these TAs will be available for video meetings to assist with problems.

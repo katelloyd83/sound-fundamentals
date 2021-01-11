@@ -37,10 +37,9 @@ So, if _hearing_ is the physiological act of sensing sound, **_listening_ is the
 
 ## Listening Requires Work
 
-As an example, _Listening_ is recognizing that a sound is coming from behind you, and is most likely a tree creaking in the wind. _Listening_ is deciphering someones voice and understanding that they are telling you "I love you".
+Listening requires active work and focus. As an example, _Listening_ is recognizing that a sound is coming from behind you, and is most likely a tree creaking in the wind. _Listening_ is deciphering someones voice and understanding that they are telling you "I love you".
 
-_Listening_ is requires that a person spends mental energy making meaning of the sounds they perceive through hearing.
-
+_Listening_ requires that a person spends mental energy making meaning of the sounds they perceive through hearing.
 
 > “Hearing is something that happens to us because we have ears – it is our primary sense organ. Listening is something we develop and cultivate our whole life, and maybe all of our lifetimes. Listening is what creates culture. Listening is very diverse and takes many forms as cultures take many forms.”
 > – [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros), [Deep Listening: A Composer’s Sound Practice](https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf), 2005.

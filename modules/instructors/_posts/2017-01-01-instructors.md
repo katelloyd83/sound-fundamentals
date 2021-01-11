@@ -7,7 +7,7 @@ topic: Instructor
 
 <!-- # Instructors -->
 
-## [Prof. Michael Musick, PhD](https://michaelmusick.github.io/teaching)
+## [Prof. Michael Musick, PhD](https://svma.umt.edu/staff_members/michael-musick-ph-d/)
 
 Michael Musick built and maintains this course. Please contact Dr. Musick with any problems.
 
@@ -29,12 +29,13 @@ Due to the ingoing Pandemic, I will not be able to hold in-person office hours. 
 - General Office Hour Reservation Link [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
 
 
-## Teaching Assistant - Charlie Apple
+## Teaching Assistant/s
 
-In addition to myself, Charlie Apple, an MFA student in Media Arts will be serving as the Teaching Assistant for this semester.
+In addition to myself, we will be supported with two teaching assistants this semester.
 
-If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail the TA for help.
+If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=330%20Question)
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
+- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
 
-Additionally, Charlie will be available throughout the week for you to setup individual Zoom meetings with where he can assist you with problems you are having.
+Additionally, these TAs will be available for video meetings to assist with problems.
