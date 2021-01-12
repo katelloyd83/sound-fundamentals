@@ -21,6 +21,8 @@ topic: Intro to Listening
 - Save this writing for later.
 
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tL7Xhj3-QoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## Listening vs. Hearing
 
 _Listening_ is something that we, as humans, _do_ through our sense of hearing. We will discuss this in more depth later in the semester, but as sound waves reach our ears, the physical movement of our ear drums starts a process that results in tiny hair cell receptors in our inner-ear sending electrical signals to our brain indicating the presence of specific frequencies at various amplitudes or loudness.
