@@ -1,9 +1,9 @@
 # Sp 2021 Planning
 
 - When should weeks open/close?
-	- Thursday to Thursday
+	- Friday to Friday
 - When should the optional Zoom session be?
-	- Monday @ 10:#0
+	- Wednesday @ 10:30
 
 
 # Fall 2020 Recap with TA’s - Nov 16, 2020
