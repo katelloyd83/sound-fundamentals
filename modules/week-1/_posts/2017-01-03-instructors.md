@@ -5,9 +5,10 @@ toc: true
 topic: Instructor Information
 ---
 
-<!--
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/upwkdL35rjg3TNHE5gSDAaQtW420K6qs0iRPr_pfzkfhByICYQbyYeYXZLfjXR61L6Fv1YR5hQfzgT-e?continueMode=true" frameborder="0" allowfullscreen></iframe></div>
--->
+{% comment %}
+The below video is semester specific and should be replaced/updated every semester
+{% endcomment %}
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/11Q7tY1B1tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Quick links, including email links, office hours, and lab hours, are all available from the ["Instructors"]({{site.baseurl}}/instructors/) tab above in the course menubar.
 
