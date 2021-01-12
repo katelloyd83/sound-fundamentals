@@ -6,7 +6,10 @@ topic: What Will This Course Be Like?
 ---
 
 
-<!-- <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/vpYsIrqvr2g3E9SRtQSDVKR_W9S4f66s0HdK-6ZfnRnkVSJWNFKgZOMUZeJHb-Znj3Ghh2sP6vVndC6f?continueMode=true" frameborder="0" allowfullscreen></iframe></div> -->
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/M_-cOqGJrps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Now that you have gone through the syllabus, along with its technical details and policies, let's talk about what this course will actually look like.
 
@@ -28,9 +31,9 @@ This week is a chance for you to get familiarize yourself with tools on your com
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the Thursday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the Friday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, Week 2's Module will open on Thursday, January 14th. Therefore, you have through next Thursday, January 21st to complete the module. Likewise, your homework is due Thursday by 11:59 PM.
+For example, Week 2's Module will open on Friday, January 15th. Therefore, you have through next Thursday, January 22nd to complete the module. Likewise, your homework is due Friday by 11:59 PM.
 
 
 ## Homework
@@ -66,7 +69,7 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1654326).
+2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1783234).
 
 {% comment %}
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)

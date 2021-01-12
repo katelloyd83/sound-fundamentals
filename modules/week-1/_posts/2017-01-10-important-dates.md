@@ -7,6 +7,12 @@ math: false
 topic: Important Dates
 ---
 
+
+
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2P_S2YeGuVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Although this is an asynchronous, fully remote class, there are a number of dates I want you to be aware of. These are semester specific dates you are expected to be available for as part of your final grade and relating to the unique qualities of this term.
 
 
