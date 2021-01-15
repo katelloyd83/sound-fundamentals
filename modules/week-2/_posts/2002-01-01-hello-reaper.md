@@ -2,13 +2,19 @@
 title: Hello Reaper
 module: 2
 jotted: false
-toc: true
+toc: false
 topic: Hello Reaper
 ---
 
-Now that you know some basic info about what DAWs are based on and the basic categories of components in a studio, it is time to dive into learning your first DAW!
 
-As I have mentioned before, we are going to utilize a DAW this semester that is multi-platform, approachable financially, actively supported and developed, and has a large and diver user-base. [Reaper](https://www.reaper.fm) fits our needs nicely.
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/56iZZMhApbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+Now that you know some basic info about what DAWs, where the evolved from, and the basic categories of components in a studio, it is time to dive into learning your first DAW!
+
+As I have mentioned before, we are going to utilize a DAW this semester that is multi-platform, approachable financially, actively supported and developed, and has a large and diverse user-base. [Reaper](https://www.reaper.fm) fits our needs nicely.
 
 [![Reaper Logo](../imgs/reaper-logo.png "Reaper Logo")](https://www.reaper.fm)
 

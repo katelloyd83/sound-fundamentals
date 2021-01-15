@@ -6,9 +6,15 @@ toc: true
 topic: The DAW in the Studio
 ---
 
+
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TOC1gdKFKfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Within the modern sound studio, the DAW serves;
 
-- as a tool for the capture digital audio to file
+- as a tool for the capture of digital audio to file
     - this may include audio captured on microphones or via the direct out from other analog audio devices (electric piano, tape player, or other analog audio)
 - as a tool for the synthesis of audio utilizing [MIDI](https://www.midi.org), software instruments, and digital sound generators
 - as a tool for the composition, arrangement, and editing of digital audio files and synthesized sounds
@@ -60,4 +66,4 @@ The last general category of the studio is output. This is where audio is sent b
 
 As with the Input category, this does require the use of some sort of digital-to-analog converter, which can take digital audio and transform it into electrical energy appropriate to drive headphones or monitors.
 
-This section of a studio may also be where final recordings of the mix are made, utilizing hardware such as summing mixers and mastering-grade compressors. 
+This section of a studio may also be where final recordings of the mix are made, utilizing hardware such as summing mixers and mastering-grade compressors.

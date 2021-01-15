@@ -22,7 +22,7 @@ With specific respect to videos; I will post videos of myself explaining topics,
 
 ## Pace
 
-This course takes time. Some things might be easier that others.  However, we will ramp into the course slowly over the next few weeks. But, you should set aside time now in your schedule for course work.
+This course takes time. Some things might be easier than others.  However, we will ramp into the course slowly over the next few weeks. But, you should set aside time now in your schedule for course work.
 
 This week is a chance for you to get familiarize yourself with tools on your computer, absorb the syllabus, and schedule out time in your week for class work.
 
