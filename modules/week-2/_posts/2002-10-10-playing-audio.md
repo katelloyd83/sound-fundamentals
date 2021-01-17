@@ -6,6 +6,8 @@ toc: false
 topic: Playing Audio
 ---
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GL5CalyhLt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 To play audio, you should simply need to press the "Play Button" in the Transport section.
 
 ![Play button](../imgs/play-button.png "Play button")

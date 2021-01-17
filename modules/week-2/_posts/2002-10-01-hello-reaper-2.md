@@ -1,12 +1,25 @@
 ---
-title: Making Sound in Reaper
+title: Overview Reaper
 module: 2
 jotted: false
 toc: true
-topic: Making Sound in Reaper
+topic: Overview Reaper
 ---
 
-Let's now get started playing with sound in Reaper. As we do this, I am going to also present general information that applies to all DAWs along the way.
+
+
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IcSTeSzO3og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br />
+
+
+Armed with a few digital audio files to use, and Reaper successfully installed, you are ready to start working in and learning about DAWs.
+
+
+<br />
+
 
 > **{ NOTE: }** As you learn about Reaper, please remember that Reaper is one of many possible DAWs that you may use in your work and career with sonic art and sound. I will present topics and information, whenever possible, in a way that is transferrable to any other DAW. Said another way, the things you are learning should be transferrable to other DAWs, many of the concepts, terminology, and approaches are the same, especially as they all come out of the Tape-Studio tradition presented a few screens back.
 

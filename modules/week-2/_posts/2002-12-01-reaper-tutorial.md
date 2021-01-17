@@ -6,17 +6,29 @@ toc: true
 topic: Starting to Play
 ---
 
+
+
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H8vYk6-Ttbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Now that you can drop in digital audio files and hear them back when you hit play, it is time to start having some fun in our exploration.
 
-First, just so we have some content to work with, create additional tracks by double-clicking left window of the arrangement view, or by dropping additional audio files into the arrangement view below the already existing tracks.
 
-As you want to hear and review your work, you should click with your mouse in the arrangement view anywhere that you want to start playback. The playhead should snap to wherever you click your mouse. Then, you can click the play button to start and utilize the stop button to stop. Alternatively, the `space bar` should allow you to start and stop playback in your project.
+<br />
 
-As you preview your project, changes you make will be heard in real-time. This allows you the ability to work on your project by utilizing your listening skills as the primary driver.
+
+To get started, let's create a few additional tracks. To accomplish this, double-click in left window of the arrangement view, or drop additional audio files into the arrangement view below the already existing tracks.
+
+In order to hear and review your work, you may click with your mouse in the arrangement view anywhere that you want to start playback. The _playhead_ should snap to wherever you click your mouse. Then, you can click the play button to start and utilize the stop button to stop. Alternatively, the `space bar` should allow you to start and stop playback in your project.
+
+As you preview your project, changes you make will be heard in real-time. This real-time response allows your listening skills to drive your work on your project.
+
 
 # Track Control Panel (TPC)
 
-The left portion of each track is the _Track Control Panel (TPC)_.
+The left portion of each track is the individual track's _Track Control Panel (TPC)_.
 
 ![Track control panel (TPC)](../imgs/tpc.png "Track control panel (TPC)")
 
@@ -30,7 +42,7 @@ In addition to showing you the track name, the TPC allows for the individual adj
 
 ![TPC Controls](../imgs/TPC-Controls.png "TPC Controls")
 
-This information is mirrored in the Mixer window in the lower half of the Reaper Window. Each visible horizontal track in the Arrangement View corresponds to the identically named and horizontally arranged tracks in the Mixer window. Changing information in either spot will cause the identical information to be presented in the other.
+This information is mirrored in the Mixer window in the lower half of the Reaper Window. Each visible horizontal track in the Arrangement View corresponds to the identically named and horizontally arranged tracks in the Mixer window. Changing information in either spot will cause the identical information to be represented in the other.
 
 ![Track relationship between arrangement and mixer views](../imgs/mixer-arr-relationship.png "Track relationship between arrangement and mixer views")
 
@@ -40,7 +52,7 @@ In audio, _gain_ is the amount of change applied to boost or attenuate an audio 
 
 In the mixer window, the gain adjustment looks like a physical fader (vertical slider). This fader allows you to specify _how much_ gain adjustment will be applied to all of the audio files within a track.
 
-> **{ NOTE: }** The gain fader does not specify the actual output level, instead, it specifies the amount of gain addition or reduction that will be applied to audio.
+> **{ NOTE: }** The gain fader does not specify the actual output level, instead, it specifies the amount of gain addition or attenuation that will be applied to the audio.
 
 If you notice, by default the slider is set to 0.00dB (dB stands for Decibels, which are a relative way of measuring sound level. We will learn more about this later in the semester.) In the TPC, this 0.00dB is represented with a line that is pointed to twelve o/clock.
 
