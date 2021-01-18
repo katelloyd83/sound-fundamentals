@@ -39,3 +39,10 @@ If you are unable to solve problems on your own or through the course Moodle for
 - [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
 
 Additionally, these TAs will be available for video meetings to assist with problems.
+
+### Cole Grant
+
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
+
+
+> Cole Grant is a radio producer, musician and composer based in Missoula, MT. He has been involved in radio since 2015, starting off as a volunteer DJ at KBGA College Radio, and now works for Montana Public Radio. In his spare time he enjoys cooking, exploring the outdoors and diving into his vinyl collection.
