@@ -1,10 +1,16 @@
 ---
 title: Capture Your World
-module: 4
+module: 3
 jotted: false
 toc: true
 topic: Capture Your World
+cover_image: true
+cover_image_file: mics-in-field.jpg
 ---
+
+
+<br />
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dsWPQfhVQ60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

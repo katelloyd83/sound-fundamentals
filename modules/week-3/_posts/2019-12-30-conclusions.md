@@ -5,8 +5,8 @@ toc: false
 topic: Weekly Conclusions
 ---
 
-This week was a deep dive back into the topic of Sonic Art, as well as look at the idea of Soundscapes.
+This week was a deep dive back into the topic of Sonic Art, as well as look at the idea of Soundscapes, and field recording.
 
-Next week, we will further consider the topic of soundscape, as well as look more into the ideas of field recording. We will also continue exploring DAWs. To that end, you will capture and edit your own soundscape work next week.
+Obviously, part of this process was that you learned how to capture audio for yourself, using your mobile-device/phone.
 
-In addition to the response for this week, please keep playing in Reaper, so that you are feeling more comfortable by next week. 
+I hope you enjoyed the process during this week. We are excited to listen to your soundscape captures!

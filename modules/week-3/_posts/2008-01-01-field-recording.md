@@ -1,12 +1,14 @@
 ---
-title: Field Recording Revisited
+title: Field Recording
 module: 3
 jotted: false
 toc: true
-topic: Revisiting Field Recordings
+topic: Field Recordings
+cover_image: true
+cover_image_file: field-recording-cover.jpg
 ---
 
-As presented last week, _field recording_ is the act of taking recording equipment out of the studio to capture soundscapes, specific objects, events, or locations that cannot otherwise be brought into the recording studio.
+_Field recording_ is the act of taking recording equipment out of the studio to capture soundscapes, specific objects, events, or locations that cannot otherwise be brought into the recording studio.
 
 ## Traditional Approaches to Field Recording
 
@@ -30,14 +32,25 @@ Field recordings may also work to capture small sounds, unusual sounds, or play 
 
 
 
+<br />
+
+
 
 The following example is from Toshiya Tsunoda, a Japanese Sound Artist known for his exploration of space, size, and time through unique field recordings (he is mentioned in the linked reading above). The following track is a recording of the vibrations of a mooring rope for a boat. Presumably, the recording was made by placing a microphone as close to the rope as possible, then allowing nature to activate the rope. As a result, you hear the emergent composition created by the rope, as well as the related sonic events occurring throughout the soundscape. One of the goals for this work is to capture a phenomenon that is only possible to be heard through the use of technology to emphasize it.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3948296033/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/track=1839450716/transparent=true/" seamless><a href="https://erstwhilerecords.bandcamp.com/album/extract-from-field-recording-archive-reflection-revisiting">Extract From Field Recording Archive: Reflection-Revisiting by Toshiya Tsunoda</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px; margin: 0 auto;" src="https://bandcamp.com/EmbeddedPlayer/album=3948296033/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/track=1839450716/transparent=true/" seamless><a href="https://erstwhilerecords.bandcamp.com/album/extract-from-field-recording-archive-reflection-revisiting">Extract From Field Recording Archive: Reflection-Revisiting by Toshiya Tsunoda</a></iframe>
 
-This is not to suggest that there is no ego in more traditional soundscape works. As evident by the above logic, there is no way of escaping ego from effecting the resulting sound art work. The following work, "La Selva", is from musician and sound artist Francisco López. It explores the rich composition that can emerge through soundscape-style artworks. Please read the following article by López on this work and then listen to it (I encourage you to listen to the entire work, but you are welcome to skip around and instead only experience portions of the 1+ hour long work).
+This is not to suggest that there is no ego in more traditional soundscape works. As evident by the above logic, there is no way of escaping ego from effecting the resulting sound art work.
+
+
+<br />
+
+The following work, "La Selva", is from musician and sound artist Francisco López. It explores the rich composition that can emerge through soundscape-style artworks. Please read the following article by López on this work and then listen to it (I encourage you to listen to the entire work, but you are welcome to skip around and instead only experience portions of the 1+ hour long work).
 
 - [francisco lópez  essays // environmental sound matter ](http://www.franciscolopez.net/env.html)
+
+<br />
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://open.spotify.com/embed/track/0dxLjcizK0MgBXB7cWEZOS" width="100%" height="300" frameborder="0" allowtransparency="true" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -51,6 +64,9 @@ This is not to suggest that there is no ego in more traditional soundscape works
 > Please also read the following article (and listen to examples) exploring 10 field recording based sound artists.
 >
 > [10 of the Most Interesting Field Recordists Working Across Aesthetic Boundaries – Soundfly](https://flypaper.soundfly.com/discover/10-of-the-most-interesting-field-recordists-working-across-aesthetic-boundaries/)
+
+<br />
+
 
 Please also watch the following video on field-recording artists working at the edge of soundscape art;
 

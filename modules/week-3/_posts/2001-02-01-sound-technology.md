@@ -4,7 +4,15 @@ module: 3
 jotted: false
 toc: true
 topic: Sonic Art & Technology
+cover_image: true
+cover_image_file: louis_bebe_barron_studio.jpg
 ---
+
+
+<br />
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MYrZf6_9eZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Even though the term _sound art_ was not used until the 1970's, the idea of art that existed with or dealt with the sonic clearly started to take hold during the 20th century.
 
@@ -47,3 +55,13 @@ These capabilities offered artists and musicians the ability to manipulate sound
 The last, and equally crucial technology, is the opposite of a microphone, it is reproduction of electrical audio signals through speakers. Speakers are another type of transducer that convert electrical audio signals back into physical audio waves.
 
 Speakers allowed for the reproduction of dislocated audio, be that through radio transmission or storage on a physical medium.
+
+
+<div class="ref">
+<h4>References and Resources</h4>
+
+
+<ol>
+<li><a href="https://www.effectrode.com/knowledge-base/louis-barron-pioneer-of-tube-audio-effects/">Cover Photo: Louis and Bebe Barron in their Greenwich Village NYC recording studio, 1956 (photo: Walter Daran)</a></li>
+</ol>
+</div>

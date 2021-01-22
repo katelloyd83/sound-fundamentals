@@ -1,10 +1,14 @@
 ---
 title: DAW Techniques for This Week
-module: 4
+module: 3
 jotted: false
 toc: true
 topic: DAW Techniques for This Week
 ---
+
+
+<br />
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_e-yz1XBPlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -60,7 +64,7 @@ Muted audio items/regions will be "greyed" out, and have an "m" in the top-right
 
 I also want you to normalize your audio. _Normalizing_ is where we analyze an entire audio region in order to find the single 'loudest' sample or moment in the region. Normalizing determines the difference between this sample and some set level. By default, this set level is 0dBFS. The process then determines how much gain to add to the sample to make it equivalent to 0dBFS. The _ENTIRE_ region is then multiplied by this same factor, thereby raising the gain or amplitude of the entire region by that amount.
 
-> **0db=BFS** stands for "zero decibels full scale". In a digital system, that is as loud as any sample can be represented by the digital data. In other words, no sample can be represented as louder. Everything below **0dBFS** (i.e. -3dBFS or -12dBFS), references how much dynamic room there is between that moment and the loudest possible representation.
+> **0dbFS** stands for "zero decibels full scale". In a digital system, that is as loud as any sample can be represented by the digital data. In other words, no sample can be represented as louder. Everything below **0dBFS** (i.e. -3dBFS or -12dBFS), references how much dynamic room there is between that moment and the loudest possible representation.
 >
 > This concept is confusing. By normalizing your audio to some level (whether 0dBFS or -3dBFS), you are not necessarily making your audio region (or track) "sound louder". Instead, you are multiplying every moment by the same amount. Thereby reducing the amount of room between the loudest moment, and loudest possible representation. But also thereby increasing the difference between the softest moment and the softest possible representation.
 >

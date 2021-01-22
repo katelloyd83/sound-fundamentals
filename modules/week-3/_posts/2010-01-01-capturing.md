@@ -4,9 +4,12 @@ module: 3
 jotted: false
 toc: true
 topic: How to Capture Your Own Sounds Out in the Field
+cover_image: true
+cover_image_file: climate-forum-image-665x300.jpg
 ---
 
-**It's time!**
+
+#### It's time!
 
 It is time for you to start going out and capturing your own sounds.
 
