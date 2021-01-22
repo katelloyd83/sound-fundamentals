@@ -46,3 +46,10 @@ Additionally, these TAs will be available for video meetings to assist with prob
 
 
 > Cole Grant is a radio producer, musician and composer based in Missoula, MT. He has been involved in radio since 2015, starting off as a volunteer DJ at KBGA College Radio, and now works for Montana Public Radio. In his spare time he enjoys cooking, exploring the outdoors and diving into his vinyl collection.
+
+
+### Sofia Stuart-Rasi
+
+- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
+
+> Originally from Denver, Colorado, Sofia is a graduate student in the Environmental Science and Natural Resource Journalism program at UM and has a BA in Studio Arts from the University of Colorado Boulder. As a reporter, she strives to improve her storytelling through intertwining art in all its forms.
