@@ -14,4 +14,4 @@ This is the web-based version of Intro to Sonic Art (MART 245) at the School of 
 - Office: McGill Hall, 232.
 
 
-Hey Sofia and Cole. Hope you are doing well!
+Hey Sofia and Cole. Hope you are not doing well!
