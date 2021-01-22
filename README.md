@@ -13,3 +13,5 @@ This is the web-based version of Intro to Sonic Art (MART 245) at the School of 
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 
+
+Hey Sofia and Cole. Hope you are doing well!
