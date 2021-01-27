@@ -35,8 +35,8 @@ In addition to myself, we will be supported with two teaching assistants this se
 
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
-- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu,sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
+- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu ](mailto:cole.grant@umconnect.umt.edu,sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
 
 Additionally, these TAs will be available for video meetings to assist with problems.
 
