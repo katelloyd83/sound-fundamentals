@@ -22,7 +22,7 @@ I want you to approach this two ways.
 
 Place your phone somewhere that captures a soundscape. This soundscape should include a multitude of sonic events, interacting with each other in time. Your phone should be placed such that it is able to pick-up a wide range of sounds from an area.
 
-This soundscape can be captured inside or outside. It can be busy with lots of sounds, or it can be quite sparse, instead emphasizing a few event over time.
+For this assignment, I would like your soundscape to be captured outside. It can be busy with lots of sounds, or it can be quite sparse, instead emphasizing a few event over time.
 
 You should record more than you will ultimately end up using. I would encourage you to take a few 10-15 minute records of various locations. After capturing your locations, load the recordings into Reaper. Then listen back to them and select the best 60-90 seconds. I will leave the subjective decision for what defines "best" to you. But this is your opportunity to select a representation from these recordings that you find most engaging.
 
