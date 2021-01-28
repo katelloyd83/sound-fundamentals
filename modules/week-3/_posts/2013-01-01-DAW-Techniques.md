@@ -16,7 +16,7 @@ There are a few techniques that will help you in your work this week.
 
 ## Save Project and Store New Media to "Media" Directory
 
-When we open Reaper, the first thing to do is Create a "New Project". This will be necessary if Reaper reopened a previously open session. You can create a new project under the main File Menu.
+When we open Reaper, the first thing to do is Create a "New Project." This will be necessary if Reaper reopened a previously open session. You can create a new project under the main File menu.
 
 After creating a new project, before we do ANYTHING ELSE, we should save the project. When you save your project remember to do the following;
 
@@ -31,9 +31,9 @@ After saving your project, I want you to also ensure the following (which you sh
 
 1. Open Project Settings (This is accessed under the main File menu).
 2. Navigate to the "Media" tab
-3. Add a relative "Media" directory, this is where all added, or recorded media will be placed, relative to your project directory path.
+3. Add a relative "Media" directory, this is where all added or recorded media will be placed, relative to your project directory path.
 4. Change "On import of media to project:" to "Copy Media to Project Path".
-5. Insure that WAV, is the file type for new recordings.
+5. Insure that WAV is the file type for new recordings.
 6. Set "WAV bit depth: " to "32 bit FP"
 7. Finally, press "Save as default project settings"
 
@@ -43,7 +43,7 @@ You are now ready to drag in your audio, and begin chosing your selections for t
 
 ## Reminder on Splicing
 
-After you import your audio, you will need to audition your captures to pick the desired selections, After identifying the selections, you will need to splice them to create smaller audio items/regions.
+After you import your audio, you will need to audition your captures to pick the desired selections. After identifying the selections, you will need to splice them to create smaller audio items/regions.
 
 To splice audio, place the selection marker where you want to separate your audio file. Then press the 'S' key. This will splice your file at that point.
 
@@ -51,9 +51,9 @@ To splice audio, place the selection marker where you want to separate your audi
 
 ## Mute Unused Audio
 
-For this assignment, I would encourage you to mute any unused audio (i.e. audio sections before and after your chosen 60-90 second section). This way, you can keep the audio around, in case you decide you want it later. Likewise, there will be lots of times while working in a DAW, where you may not want to delete audio regions, so that you can continue to have access to them, but where you want them muted.
+For this assignment, I would encourage you to mute any unused audio (i.e. audio sections before and after your chosen 60-90 second section). This way, you can keep the audio around, in case you decide you want it later. Likewise, there will be lots of times while working in a DAW where you may not want to delete audio regions, so that you can continue to have access to them, but have them muted.
 
-1. To mute an audio region in Reaper, select the region by clicking in it.
+1. To mute an audio region in Reaper, select the region by clicking on it.
 2. Then right-click the region, under the "Item Settings" sub-menu, select the "Mute" option. (You can also press "option+m" [mac] or "alt+m" [win])
 
 ![Mute option in region sub-menu](../imgs/mute.png "Mute option in region sub-menu")
