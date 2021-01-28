@@ -10,9 +10,9 @@ cover_image_file: soundwalk-cover.jpg
 
 ## Background Information
 
-_Soundwalks_ as a practice and art form are a natural extension of our notions of soundscape. The traditional notion of a soundwalk essentially turns it into a "moving soundscape". A practitioner or participant is asked to take a walk, and instead of focusing on the interactions and interplay of sonic events from a single location, the practitioner is asked to listen to a dynamically evolving soundscape that is also in relation to their movement.
+_Soundwalks_ as a practice and art form are a natural extension of our notions of soundscape. The traditional notion of a soundwalk essentially turns it into a "moving soundscape." A practitioner or participant is asked to take a walk, and instead of focusing on the interactions and interplay of sonic events from a single location, the practitioner is asked to listen to a dynamically evolving soundscape that is also in relation to their movement.
 
-Whereas in experiencing a soundscape, you would sit still, the only thing you change in a soundwalk, is that you walk around.
+When experiencing a soundscape, you would sit still. The only thing to change in a soundwalk is walking around.
 
 Hildegard Westerkamp is credited with the creation of this term and practice.
 
