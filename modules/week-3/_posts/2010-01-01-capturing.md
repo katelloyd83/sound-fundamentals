@@ -54,7 +54,7 @@ Once you pull that up, select `24` for the left number (this is the _bit depth_)
 >
 > Whenever you open an app to record, or when you start taking out hardware-based recordings in later semesters, the first thing you should check is the recording resolution settings. You want to make sure that the settings are allowing you to capture audio at a high resolution (depending in the device, you may not need to max out these settings). Typically, we want a **bit depth** of at least 24, and a **sample rate** of at least 44100 Hz or 44.1 kHz (note: this is the same value, the latter is just written with a base of 1000).
 
-The last thing you should check is that you are indeed receiving signal from your microphone. Running across the top of the app should be a black, horizontal bar, with light grey numbers ranging from -48 on the left to 0dB on the right. Above that, you should "Built-in Mic". This is telling you that the app is using your built-in microphone. (If you have headphones connect with a microphone, it may list them, and you can choose which to utilize.) You should also see a green bar, moving slightly from left to right. This is your "signal meter", and if it is moving around slightly, then you are indeed receiving signal from your microphone.
+The last thing you should check is that you are indeed receiving signal from your microphone. Running across the top of the app should be a black, horizontal bar, with light grey numbers ranging from -48 on the left to 0dB on the right. Above that, you should see "Built-in Mic". This is telling you that the app is using your built-in microphone. (If you have headphones connected with a microphone, it may list them, and you can choose which to utilize.) You should also see a green bar, moving slightly from left to right. This is your "signal meter", and if it is moving around slightly, then you are indeed receiving signal from your microphone.
 
 ![Signal meter in the ShurePlus app.](../imgs/signal-meter.jpeg "Signal meter in the ShurePlus app.")
 
@@ -74,7 +74,7 @@ When you are done, hit the "pause" button. If you want to add more to this recor
 
 ![Save button](../imgs/save-button.jpeg "Save button")
 
-This will bring up a labeling scree, where you can label your recording something more sensible, before clicking the save button.
+This will bring up a labeling screen, where you can label your recording something more sensible, before clicking the save button.
 
 > As with tracks in Reaper, I suggest you label your recording something that will make sense to you later.
 >
@@ -108,7 +108,7 @@ This will bring up an additional menu. There you should select the "SHARE" optio
 
 ![Example of selecting the share option](../imgs/share-button.jpeg "Example of selecting the share option")
 
-This will bring up another option window. Depending on the size of your file, you may be able to email it to you-self using the "MAIL" selection. However, there is the potential it will be too large to send as an email attachment. In which case, you will want to select the 3-dots next to "MORE", where you will be able to access the entirety of your phones sharing options. If you have the Box app installed and connected to your university account, I would suggest you save it as a file in the Box app. Otherwise, you are welcome to share to your computer in anyway you normally would share a large file from your phone to computer.
+This will bring up another option window. Depending on the size of your file, you may be able to email it to yourself using the "MAIL" selection. However, there is the potential it will be too large to send as an email attachment. In which case, you will want to select the 3-dots next to "MORE", where you will be able to access the entirety of your phones sharing options. If you have the Box app installed and connected to your university account, I would suggest you save it as a file in the Box app. Otherwise, you are welcome to share to your computer in anyway you normally would share a large file from your phone to computer.
 
 ## Use it in Reaper
 
