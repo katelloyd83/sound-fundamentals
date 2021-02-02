@@ -66,9 +66,9 @@ I also want you to normalize your audio. _Normalizing_ is where we analyze an en
 
 > **0dbFS** stands for "zero decibels full scale". In a digital system, that is as loud as any sample can be represented by the digital data. In other words, no sample can be represented as louder. Everything below **0dBFS** (i.e. -3dBFS or -12dBFS), references how much dynamic room there is between that moment and the loudest possible representation.
 >
-> This concept is confusing. By normalizing your audio to some level (whether 0dBFS or -3dBFS), you are not necessarily making your audio region (or track) "sound louder". Instead, you are multiplying every moment by the same amount. Thereby reducing the amount of room between the loudest moment, and loudest possible representation. But also thereby increasing the difference between the softest moment and the softest possible representation.
+> This concept is confusing. By normalizing your audio to some level (whether 0dBFS or -3dBFS), you are not necessarily making your audio region (or track) "sound louder." Instead, you are multiplying every moment by the same amount, thereby reducing the amount of room between the loudest moment and the loudest possible representation. But you also increase the difference between the softest moment and the softest possible representation.
 >
-> Furthermore, how loud something is played is entirely reliant on the analog components that audio is eventually played through. The user of these components can change the loudness by effecting the gain of the audio system.
+> Furthermore, how loud something is played is entirely reliant on the analog components that audio is eventually played through. The user of these components can change the loudness by affecting the gain of the audio system.
 >
 > There are times when we want to normalize our audio to adjust the level of the entire sample. In this case, we want to normalize to -1dBFS. By doing so, we are making it so that you do not have to turn your analog audio gain up AS MUCH.
 >
@@ -112,7 +112,7 @@ After applying a fade-in/out, you should listen to it, and adjust the length bas
 
 #### Add a Fade With Item Properties Window
 
-You can also add a fade-in/out by setting their length in the item properties window. To open the item properties window (again), press the "i" in the top-left corner of the audio item/region, you can also right click and select "item properties" from the item/region menu, or select a region with your mouse and press `f2`.
+You can also add a fade-in/out by setting their length in the item properties window. To open the item properties window (again), press the "i" in the top-left corner of the audio item/region. You can also right click and select "item properties" from the item/region menu, or select a region with your mouse and press `f2`.
 
 In the top-right corner of this window is the fade properties. You can type in the length of fade-in/out you want, press "apply" or "OK" down below, audition, and then adjust as necessary.
 
@@ -135,9 +135,9 @@ First, in case you have other tracks from your field recording captures, mute ev
 
 #### 2. Set Selection to Audio Item
 
-Next, we want to set our selection to the desired audio item/region. To do this, select the desired audio region, by clicking it with your mouse. (This will cause it to be highlighted)
+Next, we want to set our selection to the desired audio item/region. To do this, select the desired audio region by clicking it with your mouse (this will cause it to be highlighted).
 
-Then, right click the horizontal selection timeline in the arrangement window, and select "Set selection to items". This will cause the arrangement selection to mirror the item selection.
+Then, right click the horizontal selection timeline in the arrangement window, and select "Set selection to items." This will cause the arrangement selection to mirror the item selection.
 
 ![Set timeline selection to item selection](../imgs/selection.png "Set timeline selection to item selection")
 
