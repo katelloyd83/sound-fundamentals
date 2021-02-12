@@ -10,6 +10,9 @@ cover_image_file: Marinetti-Motagne.jpg
 ---
 
 
+<br />
+
+
 Now that we have more clarity about what _sonic art_ entails, and have studied the critically important field of _soundscape_ I want to talk about the Italian Futurists.
 
 
@@ -17,7 +20,13 @@ Now that we have more clarity about what _sonic art_ entails, and have studied t
 
 In the content over the last few weeks, you have read about some references to the Italian Futurists. I will leave the bulk of your learning about this movement to your art history classes. However, I do want you to read the original _Manifesto of Futurism_ by Filippo Tommaso Marinetti.
 
+**_{ TODO: }_** Please read the following:
+
 - [The Founding and Manifesto of Futurism  – Italian Futurism](https://www.italianfuturism.org/manifestos/foundingmanifesto/)
+
+_The below is a reading of excerpts from the manifesto. Available from the [MoMA Website](https://www.moma.org/multimedia/video/76/453)_
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://assets.moma.org/momaorg/shared/video_file/video_file/462/futurist_manifesto-h.264_youtube_640_480.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 ## The Art of Noises
@@ -25,16 +34,15 @@ In the content over the last few weeks, you have read about some references to t
 
 The are two important works that emerged from this movement and helped lay the ground for _sonic art_. The first, is Luigi Russolo's "The Art of Noises" Manifesto.
 
-Please read the following article from History Today on Russolo's piece.
+**_{ TODO: }_** Please read the following article from History Today on Russolo's piece.
 
 - [Lee, Alexander. “The Art of Noises: As the sounds of the world rattled into the future, so, too, did art and music.” _History Today_, Volume 67 Issue 12, 2017. Available from: https://www.historytoday.com/archive/music-time/art-noises](https://www.historytoday.com/archive/music-time/art-noises)
 
-Although the Futurists were fascinated with machines and the sounds of humanity, their approach shares similar aesthetics to the ideals of soundscape. This is particularly true in that they wanted to focus on the quality of a sound, instead of its relationships according to notions of pitch or harmony. Likewise, as with soundscape, they were focused on the sounds of our world as being enough.
-
 <br />
 
+Although the Futurists were fascinated with machines and the sounds of humanity, their approach shares similar aesthetics to the ideals of soundscape. This is particularly true in that they wanted to focus on the quality of a sound, instead of its relationships according to notions of pitch or harmony. Likewise, as with soundscape, they were focused on the idea that the sounds of _our world_ are enough.
 
-Armed with this basic perspective on Russolo, please now read his "Art of Noises".
+**_{ TODO: }_** Armed with this basic perspective on Russolo, please now read his "Art of Noises".
 
 - Russolo, Luigi. "The Art of Noise (futurist manifesto, 1913)". Translated by Robert Filliou.
 	- [U B U W E B :: Luigi Russolo - The Art of Noises](https://www.ubu.com/papers/russolo.html)
@@ -71,6 +79,13 @@ This work is significant for its use of onamonapia type words, mimicking the sou
 An excerpt of this poem can be experienced below. Notice how the film-maker mimics the typography used by Marinetti.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3_3O0zOiX-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br />
+
+
+If you desire, you can read more futurist poems from the following anthology via monoskop:
+
+- [https://monoskop.org/images/c/c4/Bohn_Willard_ed_Italian_Futurist_Poetry_2005.pdf](https://monoskop.org/images/c/c4/Bohn_Willard_ed_Italian_Futurist_Poetry_2005.pdf)
 
 ## Move Away from the Institution
 

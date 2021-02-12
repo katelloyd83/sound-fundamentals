@@ -1,6 +1,6 @@
 ---
 title: Sound Fundamentals
-module: 7
+module: 6
 jotted: false
 toc: false
 topic: Sound Fundamentals

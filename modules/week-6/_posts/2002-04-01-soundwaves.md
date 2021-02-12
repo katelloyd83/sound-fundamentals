@@ -1,6 +1,6 @@
 ---
 title: Sound Waves
-module: 7
+module: 6
 jotted: false
 toc: true
 topic: Sound Waves
