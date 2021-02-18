@@ -1,6 +1,6 @@
 ---
 title: Further w/ Signal Processing
-module: 9
+module: 7
 jotted: false
 toc: true
 math: false

@@ -1,10 +1,12 @@
 ---
 title: Complex Waves
-module: 8
+module: 7
 jotted: false
 toc: true
 math: true
 topic: Complex Waves
+cover_image: true
+cover_image_file: complex-wave.png
 ---
 
 As mentioned previously, all sounds in our world can be described or broken down into a series of sinusoidal waves, added together, with various amplitudes and phases.
@@ -12,6 +14,18 @@ As mentioned previously, all sounds in our world can be described or broken down
 Obviously, not all sounds, signals, or waves that we work with will be simple sine waves. For example, the audio files that you have been working with in Reaper, visualized in the arrangement view, are clearly more complex than simple sine waves.
 
 We will consider a complex wave, one that contains two or more simple sinusoidal components.
+
+
+<br />
+
+
+The below wave image is of me saying my last name, "musick". You can clearly see that there is some periodicity to this signal (i.e. repeating wave cycles, resulting in audible frequencies). This example demonstrates that almost all "organic" (or naturally occurring) sounds are "complex waves" comprised of multiple frequencies in consort.
+
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1498841382/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1990255568/transparent=true/" seamless><a href="https://michaelmusick.bandcamp.com/album/examples-from-intro-to-sonic-art">Examples from Intro to Sonic Art by Michael Musick</a></iframe>
+
+
+![Visualization of the instructor saying 'musick'.](../imgs/complex-wave.png "Visualization of the instructor saying 'musick'.")
 
 
 

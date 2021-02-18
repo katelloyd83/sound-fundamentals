@@ -1,6 +1,6 @@
 ---
 title: More Sound Info
-module: 8
+module: 7
 jotted: false
 toc: false
 math: false

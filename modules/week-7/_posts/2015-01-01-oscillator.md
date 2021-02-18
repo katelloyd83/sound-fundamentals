@@ -1,6 +1,6 @@
 ---
 title: Oscillator Plug-In
-module: 9
+module: 7
 jotted: false
 toc: true
 math: true

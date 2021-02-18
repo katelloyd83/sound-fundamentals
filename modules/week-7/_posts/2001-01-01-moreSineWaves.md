@@ -1,13 +1,18 @@
 ---
 title: Sine Waves Revisited
-module: 8
+module: 7
 jotted: false
 toc: true
 math: true
-topic: Revisiting Sine Waves&#58 More About The Building Blocks for All Sounds
+topic: Revisiting Sine Waves
+cover_image: true
+cover_image_file: moreSines-cover.png
 ---
 
 
+
+
+## The Building Blocks for All Sounds
 
 Before we get into complex waves, let's dive a little deeper into _sine waves_. A _sine wave_ or _sinusoidal wave_ is a basic building block of audio. As mentioned multiple times, all sounds can be broken down and described as a series of sine waves at various amplitudes and initial phases.
 
@@ -159,7 +164,7 @@ $$\begin{array}{ll}
 
 ## Visualize a Sine Wave & Circle
 
-In the following interactive element, you can see this relationship between a circle and sine wave. As the angle moves from $$0$$ around the circle to $$2\pi$$, you can see the resulting sine wave created. 
+In the following interactive element, you can see this relationship between a circle and sine wave. As the angle moves from $$0$$ around the circle to $$2\pi$$, you can see the resulting sine wave created.
 
 <script src="{{site.baseurl}}/libs/d3/d3.min.js"></script>
 

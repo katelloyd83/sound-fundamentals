@@ -1,6 +1,6 @@
 ---
 title: Install VSTs
-module: 9
+module: 7
 jotted: false
 toc: true
 math: false
@@ -9,7 +9,7 @@ topic: Install 3rd Party VSTs
 
 Reaper, as with most DAWs is a complex, capable, and overwhelming powerful tool for working with audio. We have not even began to scratch the surface of what it is capable of.
 
-Yet, even with this powerful tool, there are reasons to extend and add to its capabilities. Reaper, as with all modern DAWs, can "host" external plug-ins. As you learned last week, a plug-in is a separate software program that runs from within a DAW. One of the strengths of this architecture, is that it allows for users to add 3rd party plug-ins to the DAWs, thereby creating additional opportunities for creativity.
+Yet, even with this powerful tool, there are reasons to extend and add to its capabilities. Reaper, as with all modern DAWs, can "host" external plug-ins. As you learned earlier, a plug-in is a separate software program that runs from within a DAW. One of the strengths of this architecture, is that it allows for users to add 3rd party plug-ins to the DAWs, thereby creating additional opportunities for creativity.
 
 ## Plug-In Formats
 
@@ -98,7 +98,7 @@ These plug-ins come with installers, so, they should install themselves automati
 - [Valhalla Space Modulator: Flanger Plugin - Valhalla DSP Plugins](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Freq Echo: Freqency Shifter Plugin - Free Reverb Plugin](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 
-{% comment %}
+
 
 ### ++audio
 
@@ -107,7 +107,7 @@ Finally, please install the "Rubbadub" delay plug-in from ++audio.
 - [Rubbadub - ++Audio](https://ccrma.stanford.edu/~adam/++/index.php?page=effects&effect=rubbadub)
 
 Like the Valhalla Plug-Ins, these include an automated installer.
-{% endcomment %}
+
 
 ## Video Demo
 
