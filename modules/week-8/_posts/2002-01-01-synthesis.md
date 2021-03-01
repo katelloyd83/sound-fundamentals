@@ -1,6 +1,6 @@
 ---
 title: Synthesis
-module: 10
+module: 8
 jotted: false
 toc: true
 math: false

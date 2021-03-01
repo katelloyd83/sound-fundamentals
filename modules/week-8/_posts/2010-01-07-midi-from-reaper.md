@@ -1,6 +1,6 @@
 ---
 title: Reaper on working with MIDI
-module: 10
+module: 8
 jotted: false
 toc: false
 math: false
