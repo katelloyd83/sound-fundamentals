@@ -1,3 +1,12 @@
+---
+title: dada
+module: 9
+jotted: false
+toc: true
+math: false
+topic: dada
+---
+
 
 https://nmbx.newmusicusa.org/From-Revolutionary-to-Normative-A-Secret-History-of-Dada-and-Surrealism-in-American-Music/
 

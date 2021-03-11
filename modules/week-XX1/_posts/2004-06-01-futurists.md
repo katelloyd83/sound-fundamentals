@@ -13,12 +13,12 @@ cover_image_file: Marinetti-Motagne.jpg
 <br />
 
 
-Now that we have more clarity about what _sonic art_ entails, and have studied the critically important field of _soundscape_ I want to talk about the Italian Futurists.
+Now that you have clarity about what _sonic art_ entails, I want to talk about the Italian Futurists.
 
 
 ## Manifesto of Futurism
 
-In the content over the last few weeks, you have read about some references to the Italian Futurists. I will leave the bulk of your learning about this movement to your art history classes. However, I do want you to read the original _Manifesto of Futurism_ by Filippo Tommaso Marinetti.
+In the content throughout this semester, you have read about some references to the Italian Futurists. I will leave the bulk of your learning about this movement to your art history classes. However, I do want you to read the original _Manifesto of Futurism_ by Filippo Tommaso Marinetti.
 
 **_{ TODO: }_** Please read the following:
 

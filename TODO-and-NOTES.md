@@ -6,6 +6,40 @@
 	- Wednesday @ 10:30
 
 
+## Topic ideas to finish spring-2021 term
+
+- Week 8 - MIDI and Synthesis
+- Week 9 - Making Music
+	- recording modes (auto-mode)
+	- punch-ins
+		- using record punch-in
+		- using various record modes
+	- Takes
+	- Grids
+	- etc.
+- Week 10 - Mixing
+	- compression
+	- limiting
+	- Stems, etc
+- Week 11 - Microphones and Theory
+	- What can we do in this week that is creative content / goal / art
+	- Binaural
+- Week 12 - Radio & Podcasting?? Narrative Sonic Art
+	- Gorilla Style Production
+
+#### Other Topics
+- Mastering
+- Psychoacoustics
+- Room Acoustics
+- Studio Monitors
+- Improvisd electronic music
+- Wind Chimes and Sculptures
+- Visualizers
+- Installation land
+- Immersive Sound
+
+
+
 # Fall 2020 Recap with TA’s - Nov 16, 2020
 
 
