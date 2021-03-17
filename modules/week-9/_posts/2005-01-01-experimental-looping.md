@@ -65,6 +65,6 @@ The following link is for the reference to Pandit Pran Nath, and his performance
 
 ## Meredith Monk
 
-A more recent composer exploring similar ideas is that of composer Meredith Monk. Her work "Panda Chat" for choir is a great example of looping in acoustic music.
+A more recent composer exploring similar ideas is that of composer Meredith Monk. Her work "Panda Chant" for choir is a great example of looping in acoustic music.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Sm06nqdG9wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

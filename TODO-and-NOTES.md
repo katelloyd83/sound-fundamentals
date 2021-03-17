@@ -9,7 +9,7 @@
 ## Topic ideas to finish spring-2021 term
 
 - Week 8 - MIDI and Synthesis
-- Week 9 - Making Music
+- Week 10 - Making Music
 	- recording modes (auto-mode)
 	- punch-ins
 		- using record punch-in
