@@ -1,9 +1,22 @@
 # Sp 2021 Planning
 
-- When should weeks open/close?
-	- Friday to Friday
-- When should the optional Zoom session be?
-	- Wednesday @ 10:30
+
+
+# Final Project Thoughts
+
+- length: 1-4 minutes
+  - assumes, that if 28 students submit, max length is 112 minutes
+- Need to touch base with Billy about details
+
+- Due on Friday, April 9th (w/ a likely extension till Wednesday)
+- Mastering session, Thursday April 16th
+- Presentation on "Something Else" Wednesday April 21st
+- Final reflections and responses then would be due Monday the 26th
+- Then all grading done by 30th (1pm) post-mortem
+OR
+- Due on Friday, April 16th
+- Mastering session, Monday April 19th
+- Presentation on "Something Else" Wednesday April 28th (finals week)
 
 
 ## Topic ideas to finish spring-2021 term
