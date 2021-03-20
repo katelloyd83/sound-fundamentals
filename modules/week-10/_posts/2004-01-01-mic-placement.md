@@ -7,9 +7,13 @@ math: true
 topic: Mic Placement
 ---
 
+
+
 When we introduced the concept of capturing field recordings with your mobile device, you were [briefly introduced to how mic placement]({{site.baseurl}}/modules/week-3/captureYourWorld/#my-example-1) is a critical choice to be made for recording audio.
 
 As you read in the [Indiana text](https://cmtext.indiana.edu/studio/chapter2_mics2.php), there are a number of concepts to keep in mind with respect to mic placement.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pTGoH03xedQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Trust Your Ears
 
@@ -23,7 +27,7 @@ At each placement, you are listening to whether that current placement best repr
 
 In addition to trusting your ears, knowing a few technical details about sound and microphones will assist in knowing how to place a microphone.
 
-## Inverse Distances law
+## Inverse Distances Law
 
 > What you need to know: _for every doubling in distance, loudness / Sound Pressure Level (SPL) is reduced by $$3dB$$, or half_.
 
@@ -39,6 +43,14 @@ This also means that for every doubling of distance of a microphone to the  sour
 
 When testing a microphone for the best sounding place, you should ensure that wherever the microphone is positioned in relation to the source, that the distance will be able to be maintained.
 
+## Proximity Effect
+
+Most microphones, and almost all directional microphones, will exhibit a something known as "proximity effect" when a sound source is place close (i.e. within about 2 feet) of the mic. This proximity effect results in a boost to bass frequencies in the sound spectrum.
+
+Proximity effect can be a good or bad quality. Proximity effect is what gives many radio announcers and DJs that characteristic "deep sound", that we are accustomed to. Many radio personalities will place their voice mics within in inches of their mouth to accentuate this principle and leverage it for that characteristic sound.
+
+There are times however, where proximity effect can make a sound too "muddy" or overpower the captured sound with bass frequencies.
+
 ## Signal to Noise Ratio
 
 Signal to Noise Ratio (_SNR_) refers to the amount/loudness of desirable or wanted audio signal verses the amount/loudness of noise or unwanted audio signal. This concept is discussed and referred to throughout the audio production process. It creeps up as a consideration when choosing what pieces of analog hardware to run audio signals through, which microphones to pick, and for us currently, where to place a microphone.
@@ -49,15 +61,7 @@ Typically, as audio professionals, we want to maximize the SNR, so that our capt
 
 Whenever possible, you should try to choose a recording environment absent of undesirable noises. Likewise, if that is not possible, you should try to remove, turn off, or minimize those noises, so that they are removed from your recording.
 
-In theory, you should work to place a microphone in a position that captures the best sound quality or timbre, without undesirable colorations. 
-
-## Proximity Effect
-
-Most microphones, and almost all directional microphones, will exhibit a something known as "proximity effect" when a sound source is place close (i.e. within about 2 feet) of the mic. This proximity effect results in a boost to bass frequencies in the sound spectrum.
-
-Proximity effect can be a good or bad quality. Proximity effect is what gives many radio announcers and DJs that characteristic "deep sound", that we are accustomed to. Many radio personalities will place their voice mics within in inches of their mouth to accentuate this principle and leverage it for that characteristic sound.
-
-There are times however, where proximity effect can make a sound too "muddy" or overpower the captured sound with bass frequencies.
+In theory, you should work to place a microphone in a position that captures the best sound quality or timbre, without undesirable colorations.
 
 ## Axis
 
