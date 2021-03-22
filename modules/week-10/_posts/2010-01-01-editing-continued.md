@@ -2,7 +2,7 @@
 title: Revisit Editing
 module: 10
 jotted: false
-toc: true
+toc: false
 math: false
 topic: Revisit Audio Editing
 ---

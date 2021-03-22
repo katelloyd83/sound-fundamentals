@@ -2,7 +2,7 @@
 title: Recording in Reaper
 module: 10
 jotted: false
-toc: true
+toc: false
 math: false
 topic: Recording and Recording Modes in Reaper
 ---
