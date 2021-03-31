@@ -1,8 +1,8 @@
 ---
 title: Weekly Conclusions
-module: XX
-toc: true
+module: 11
+toc: false
 topic: Weekly Conclusions
 ---
 
-This week...
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4JnXC7GBWF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
