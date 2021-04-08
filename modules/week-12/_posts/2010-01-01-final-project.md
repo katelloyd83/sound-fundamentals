@@ -7,36 +7,70 @@ math: true
 topic: Final Project
 ---
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rIgJ4O_it4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br />
+
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gM-uDFZKWpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 <br />
 
 
 
-**Due: Wednesday, November 18th @ 11:59pm**
+**Due: Tuesday, April 13th @ 11:59pm**
 
 Building on all of the diverse and extensive work that you have engaged in over the course of this semester, you are expected to create a final sonic art work for this course.
 
-## Open Topic, Style, or Source
+## Originality
 
-This final artwork can be whatever you want it to be, with respect to topic, style, or source. As some examples;
+The intent of this final project is for you to create an original sonic art work. Please use this as an opportunity to be creative, and to explore something that you have found interesting throughout this course.
 
-- you could create another soundscape or soundwalk piece
-- you could revisit synthesis and MIDI to create something more musical in nature
-- you could improvise a real-time piece similar to week 9, that you then touch-up in Reaper
-- you could capture yourself reciting text in the form of a podcast
-- you could record your band and mix it together
-- you could create a piece that explores a specific principle of sound or psychoacoustics
+Unless we directly asked you to change something from your Final Project Proposal, you should have been working on the final project as you proposed.
 
-You are literally free to do whatever, as long as it is sound-based and utilizes techniques presented and explored throughout this course.
+## Deadlines
+
+- Final Project Deadline:
+	- We are currently thinking final projects will be due: **Tuesday, April 13th**
+	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
+	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they "belong together".
+
+
+## Radio Show!
+
+For the in-person version of this course, the end of the semester is marked by a public concert in which students present their final sonic artworks from the semester. Obviously, an in-person concert is not possible for the format of this course, nor in the times of COVID. Therefore, instead, the class will culminate with a radio festival presentation of your works.
+
+We are currently planning for this to occur on Billy Kautz's show, "Something Else" on KGBA this April. If you don't already, you should obviously listen to [KGBA](https://www.kbga.org). Billy's show occurs on Wednesday evenings from 8-10pm. This show highlights experimental, avant-garde, electro-acoustic, jazz, creative music, and sonic art. For more information about this show, Billy, to see playlists from the show, or to hear old interviews conducted by Billy head to the following links:
+
+- [Bill Kautz (DJ Silver Sprocket) on KBGA Missoula 89.9FM](https://spinitron.com/KBGA/dj/37934/Bill-Kautz-DJ-Silver-Sprocket)
+- [Billy Kautz on Mixcloud](https://www.mixcloud.com/bill-kautz/)
+- [@somethingelsekbga • Instagram](https://www.instagram.com/somethingelsekbga/)
+
+## Presentational Format
+
+As we are planning on radio presentations, there are a number of factors for the final format for you to consider.
+
+- Length:
+	- 1 - 4 minutes.
+	- Your final project can be anywhere between 1 and 4 minutes long.
+- Copyright Material:
+	- You must have all copyright for your work.
+	- Since this will be broadcast on the radio, you must ensure that all source material and all aspects of the work are your own work
+	- OR contain material that have copyrights allowing for re-use and distribution.
+	- In other words, do not use any copyright material where you can not guarantee you are allowed to present it publicly.
+- No Obscene, Profane, or Indecent material
+	- You are not allowed to create works that contain obscene, profane, or indecent material.
+		- For more on this, please read: [Obscene, Indecent and Profane Broadcasts - Federal Communications Commission](https://www.fcc.gov/consumers/guides/obscene-indecent-and-profane-broadcasts)
+	- This also means you must refrain from the "seven dirty words" and related terminology.
+
+
 
 ## Technical Specifications
 
 For this work, you need to adhere to or accomplish the following technical specifications;
 
 1. **Final File Type** - This work should be exported as a stereo, digital audio file (`.wav.` or `.aiff`), with a sample rate of 441.kHz or 48kHz, and a bit depth of 24bits.
-2. **Time Requirements** - Your final work should be between 1:30 and 8:00 minutes.
+2. **Time Requirements** - Your final work should be between 1:00 and 4:00 minutes.
 3. **Work Investment** - Since this is a final project, you should plan to invest approximately 2 weeks worth of a normal homework assignment times requirement. I.E. if it normally takes you 3-6 hours to complete a homework assignment for this course, you should plan on a final project that you think will take you between 6-12 work hours.
 4. **Final Amplitude Levels** - You should ensure that your final audio file contains no clipping or amplitude overages (i.e. amplitude or peaks above $$0.0dBFS$$). Ideally, you should aim to have a file with an amplitude peak of $$-1.0dBFS$$.
 
@@ -45,11 +79,16 @@ For this work, you need to adhere to or accomplish the following technical speci
 In addition to a digital audio file (as mentioned above) which constitutes the actual sonic art work, you will need to supply a number of additional materials.
 
 - A 1-2 page discussion about this work. Please write about;
-	- what you were working to accomplish with this work
-	- what techniques, concepts, or artistic styles you decided to build on from this semester
-	- finally, I would like you to also discuss briefly what skills or techniques you feel like you wanted to covered this semester that we did not get to
-- Images of your Reaper session.
+	- **A brief (1-4 sentence) description of your work** that would be appropriate to read on air (if time allows).
+	- The name of your work
+	- The name you want to be represented with for your work
+	- Additionally, I would like a longer discussion of;
+		- what you were working to accomplish with this work
+		- what techniques, concepts, or artistic styles you decided to build on from this semester
+		- finally, I would like you to also discuss briefly what skills or techniques you feel like you wanted to covered this semester that we did not get to
+- 2-3 Images of your Reaper session.
 - Your _bounced_ stereo audio file
+- _[OPTIONAL]_ You are also welcome to additionally submit the above 1-4 sentence description of your work as an audio recording. If you do this, and time allows, I will have that played on the radio, so that you can introduce your work.
 
 
 ## Submission
@@ -58,15 +97,4 @@ Please, upload these final project files to the Moodle _Final Project Submission
 
 ## Classmate Responses
 
-In addition to submitting your own final project, you are expected to experience, comment, and critique your fellow classmates final projects as well (following in the model established earlier this semester).
-
-You do not need to read through their final project discussion papers.
-
-Presumably, you will need to return to the moodle shell _after_ you submit your final project to listen to and comment on your classmates works.
-
-### Specification
-
-- **Number:** You are expected to listen to and comment on **every** final project submission that is available.
-- **Due Date:** You will have until Monday, November 23rd @ 11:59pm to listen to comment on your classmates projects.
-
-This will take a significant amount of time, so please plan accordingly between Thursday (November 19th) and Monday (November 23rd) to get these done.
+In addition to submitting your own final project, you will be expected to listen to the _Something Else_ show in order to reflect upon the entire classes projects. More info to come on this closer to the show itself.
