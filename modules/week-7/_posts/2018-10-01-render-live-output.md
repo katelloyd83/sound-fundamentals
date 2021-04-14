@@ -69,9 +69,9 @@ When you have finished capturing or _bouncing_ your work, you can then navigate 
 
 I would suggest you create a **new** Reaper session. Save this session as `week-7_HW-master`, or something of the sort.
 
-Drag you bounced audio into this session.
+Drag your bounced audio into this session.
 
-Then, remove any excess silence from the start or finish. Or, if this track contains multiple performances (or false starts), split the audio so it is only what you want to submit (**{ NOTE: }** _You should leave 0.25-1 second of silence before you track starts).
+Then, remove any excess silence from the start or finish. Or, if this track contains multiple performances (or false starts), split the audio so it is only what you want to submit (**{ NOTE: }** _You should leave 0.25-1 second of silence before your track starts).
 
 Finally, _normalize_ your track, so that it has approximately -1dBFS of _headroom_ or the distance between the loudest point and 0.0dBFS / _max-volume_.
 
