@@ -9,7 +9,7 @@ topic: More Information About Sound
 
 As we are starting to get a full grasp of sound, there are a few more external resources I want you to work through.
 
-First, is this charming old video about sound. I hope you enjoy how it offers a slightly different take on the topics we have been discussing from the last two weeks.
+First is this charming old video about sound. I hope you enjoy how it offers a slightly different take on the topics we have been discussing from the last two weeks.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cK2-6cgqgYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
