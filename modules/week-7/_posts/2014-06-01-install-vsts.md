@@ -7,15 +7,15 @@ math: false
 topic: Install 3rd Party VSTs
 ---
 
-Reaper, as with most DAWs is a complex, capable, and overwhelming powerful tool for working with audio. We have not even began to scratch the surface of what it is capable of.
+Reaper, as with most DAWs is a complex, capable, and overwhelmingly powerful tool for working with audio. We have not even began to scratch the surface of what it is capable of.
 
-Yet, even with this powerful tool, there are reasons to extend and add to its capabilities. Reaper, as with all modern DAWs, can "host" external plug-ins. As you learned earlier, a plug-in is a separate software program that runs from within a DAW. One of the strengths of this architecture, is that it allows for users to add 3rd party plug-ins to the DAWs, thereby creating additional opportunities for creativity.
+Yet, even with this powerful tool, there are reasons to extend and add to its capabilities. Reaper, as with all modern DAWs, can "host" external plug-ins. As you learned earlier, a plug-in is a separate software program that runs from within a DAW. One of the strengths of this architecture is that it allows for users to add 3rd party plug-ins to the DAWs, thereby creating additional opportunities for creativity.
 
 ## Plug-In Formats
 
 A plug-in, as with a video file, word document, etc. can be one of a few different types. Likewise, certain DAWs have the ability host only certain types of plug-ins. This is due to issues such as optimization and system architecture, as well as issues such as licensing fees for various plug-in formats.
 
-Reaper has the ability to host VST-based plug-ins. VST stands for [Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and was originally a plug-in format developed Steinburg Media Technologies, makers of music and sound software and hardware. So, any plug-in that has a VST version and can run on your operating system can be added to Reaper.
+Reaper has the ability to host VST-based plug-ins. VST stands for [Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and was originally a plug-in format developed by Steinburg Media Technologies, makers of music and sound software and hardware. So, any plug-in that has a VST version and can run on your operating system can be added to Reaper.
 
 **{ NOTE: }** There are two types of VST plug-ins you may run across, _VST_ and _VST3_.
 
