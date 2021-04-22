@@ -18,11 +18,11 @@ Within the modern sound studio, the DAW serves;
     - this may include audio captured on microphones or via the direct out from other analog audio devices (electric piano, tape player, or other analog audio)
 - as a tool for the synthesis of audio utilizing [MIDI](https://www.midi.org), software instruments, and digital sound generators
 - as a tool for the composition, arrangement, and editing of digital audio files and synthesized sounds
-- as the tool for creating a mix of all of these sound such that they can all coexist with each other
+- as the tool for creating a mix of all of these sounds such that they can all coexist with each other
 
 # Beyond the DAW
 
-In addition to the DAW, there is additional gear that is necessary for any studio, if the the one you are building and utilizing this semester. At the lowest level, these could be broken into three categories;
+In addition to the DAW, there is additional gear that is necessary for any studio, if the one you are building and utilizing this semester. At the lowest level, these could be broken into three categories;
 
 1. Input
 2. Control / Mixing
@@ -52,7 +52,7 @@ When we start to think about working with a DAW, one aspect that becomes critica
 
 For most of this semester, you will utilize these standard control mechanisms to work with your DAW.
 
-However, controllers in the studio may also include the use of digital controllers. These digital controllers allow the producer/artist/engineer to interact with real-time data. These devices often do not have the actually ability to effect audio directly, instead they could be thought of as expensive computer mice, as they are specialized control surfaces. Some examples include;
+However, controllers in the studio may also include the use of digital controllers. These digital controllers allow the producer/artist/engineer to interact with real-time data. These devices often do not have the actual ability to effect audio directly, instead they could be thought of as expensive computer mice, as they are specialized control surfaces. Some examples include;
 
 - a MIDI piano-style keyboard
 - finger-pads
