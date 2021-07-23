@@ -27,7 +27,7 @@ On macOS, if you are using headphones or your built-in speakers, you should make
 
 **Windows**
 
-On Windows, You should set Audio System to ASIO and below that, click on the Audio Device drop-down box and select your audio interface. Your options will likely be different than mine. However, you should select the relevant "built-in output" or "headphone" option.
+On Windows, you should set Audio System to ASIO and below that, click on the Audio Device drop-down box and select your audio interface. Your options will likely be different than mine. However, you should select the relevant "built-in output" or "headphone" option.
 
 ![Windows audio device setup](../imgs/Reaper_Audio_Device_Preferences.png "Windows audio device setup")
 
@@ -36,6 +36,6 @@ Regardless of OS, please select "Apply" and then "OK" to approve the changes and
 
 Now, hit play again, you should now hear sound.
 
-> Whenever you cannot get sound out of Reaper (or any DAW), this is the first thing to check. Insure that your audio device is properly selected.
+> Whenever you cannot get sound out of Reaper (or any DAW), this is the first thing to check. Ensure that your audio device is properly selected.
 
 > **{ NOTE: }** You should also insure that the volume is turned up on the device you are listening through (i.e. turn up your computer volume).

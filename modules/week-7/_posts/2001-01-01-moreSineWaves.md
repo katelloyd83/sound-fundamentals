@@ -89,7 +89,7 @@ For more review of sine and cosine functions and relationships, please read:
 
 - [5.3: Unit Circle - Sine and Cosine Functions - Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Precalculus/Book%3A_Precalculus_(OpenStax)/05%3A_Trigonometric_Functions/5.03%3A_Unit_Circle_-_Sine_and_Cosine_Functions)
 
-The following video will serve to remind you about some of the properties associated with the unit circle. Which is our key to understanding how the sine function creates a circle.
+The following video will serve to remind you about some of the properties associated with the unit circle, which is our key to understanding how the sine function creates a circle.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/c819bGfH8FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -109,7 +109,7 @@ Where:
 - $$f$$ is ordinary frequency, the number of cycles per second (Hz).
 - $$\phi$$ is initial phase ($$t = 0$$), specified in radians.
 
-Essentially, we are replacing the angle from the unit circle sine function information above, with a representation of frequency with respect to time. This results in a value, which represents a an angle with respect to the unit circle.
+Essentially, we are replacing the angle from the unit circle sine function information above, with a representation of frequency with respect to time. This results in a value, which represents an angle with respect to the unit circle.
 
 <br />
 

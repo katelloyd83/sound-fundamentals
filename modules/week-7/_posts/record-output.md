@@ -7,7 +7,7 @@ math: false
 topic: Record a Tracks Output
 ---
 
-With the tone generator, filter, and delay, you can begin to treat Reaper as a pseudo-instrument. Creating complex sounds within a track.
+With the tone generator, filter, and delay, you can begin to treat Reaper as a pseudo-instrument, creating complex sounds within a track.
 
 One workflow you may find yourself wanting is the ability to record the output from a track, in order to;
 

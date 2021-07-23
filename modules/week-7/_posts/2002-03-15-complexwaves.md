@@ -9,9 +9,9 @@ cover_image: true
 cover_image_file: complex-wave.png
 ---
 
-As mentioned previously, all sounds in our world can be described or broken down into a series of sinusoidal waves, added together, with various amplitudes and phases.
+As mentioned previously, all sounds in our world can be described as or broken down into a series of sinusoidal waves, added together, with various amplitudes and phases.
 
-Obviously, not all sounds, signals, or waves that we work with will be simple sine waves. For example, the audio files that you have been working with in Reaper, visualized in the arrangement view, are clearly more complex than simple sine waves.
+Obviously not all sounds, signals, or waves that we work with will be simple sine waves. For example, the audio files that you have been working with in Reaper, visualized in the arrangement view, are clearly more complex than simple sine waves.
 
 We will consider a complex wave, one that contains two or more simple sinusoidal components.
 
@@ -19,7 +19,7 @@ We will consider a complex wave, one that contains two or more simple sinusoidal
 <br />
 
 
-The below wave image is of me saying my last name, "musick". You can clearly see that there is some periodicity to this signal (i.e. repeating wave cycles, resulting in audible frequencies). This example demonstrates that almost all "organic" (or naturally occurring) sounds are "complex waves" comprised of multiple frequencies in consort.
+The below wave image is of me saying my last name, "Musick." You can clearly see that there is some periodicity to this signal (i.e. repeating wave cycles, resulting in audible frequencies). This example demonstrates that almost all "organic" (or naturally occurring) sounds are "complex waves" comprised of multiple frequencies in consort.
 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1498841382/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1990255568/transparent=true/" seamless><a href="https://michaelmusick.bandcamp.com/album/examples-from-intro-to-sonic-art">Examples from Intro to Sonic Art by Michael Musick</a></iframe>
@@ -32,7 +32,7 @@ The below wave image is of me saying my last name, "musick". You can clearly see
 
 # 2 Sine Waves
 
-As mentioned earlier, most sounds we hear are "complex", meaning they are comprised of multiple sine waves at varying frequencies, with various amplitude and phase relationships. Therefore it is important that you understand how waves behave when they are added together.
+As mentioned earlier, most sounds we hear are "complex," meaning they are comprised of multiple sine waves at varying frequencies, with various amplitude and phase relationships. Therefore it is important that you understand how waves behave when they are added together.
 
 In the below images, two sine waves, each with an amplitude of $$A=0.5$$ and a phase of $$\phi=0$$ are shown, with the resulting summation of these waves shown in the lowest wave plot. Notice that at each moment ($$t$$), the addition of the waves causes a resulting amplitude that is double.
 
@@ -42,13 +42,13 @@ However, if the phase of either of these waves changes, then the resulting signa
 
 **_Phase_** is where a wave begins. So a phase of $$ \phi = \frac{pi}{2} $$ creates a resulting wave whose amplitude is half that of the original waves $$(A=0.25)$$.
 
-As the two signals, with equal frequency move out of phase, the waves sum together "destructively", where they cancel each other out.
+As the two signals with equal frequency move out of phase, the waves sum together "destructively," where they cancel each other out.
 
 The following image demonstrates two waves, who are out of phase by $$\pi$$ resulting in a signal whose peak amplitude is $$A=0$$. This of course means the two waves have completely canceled out and there is nothing to hear.
 
 ![Example of two waves cancelling each other.](../imgs/sine-wave-add-2.png "Example of two waves cancelling each other.")
 
-The following interactive, allows you to visualize two sine waves whose frequency is equal, while adjusting their phase and amplitude. This should help you get a sense of how this effects the resulting signal.
+The following interactive element allows you to visualize two sine waves whose frequency is equal, while adjusting their phase and amplitude. This should help you get a sense of how this effects the resulting signal.
 
 <script src="{{site.baseurl}}/libs/d3/d3.min.js"></script>
 <table>
@@ -95,7 +95,7 @@ The following interactive, allows you to visualize two sine waves whose frequenc
 
 In the following video, you can see and hear this relationship.
 
-There are two sine waves, each at 300Hz. These are the lower two channels of the wave scope view. The top track represents the summation of these two signals. Notice, that as the two signal's phase relationships alter with each other, that the resulting signal is eventually cancelled out.
+There are two sine waves, each at 300Hz. These are the lower two channels of the wave scope view. The top track represents the summation of these two signals. Notice that as the two signal's phase relationships alter with each other, that the resulting signal is eventually cancelled out.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vdgRz3jJe2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -113,7 +113,7 @@ When two waves are close in frequency to each other, they will create the same d
 
 ## 1:2 Ratio of Frequencies
 
-These same principles apply when the frequency ratio's are greater between the waves. But, perceptually, we will start to actually hear two separate waves, forming into a signal, complex signal.
+These same principles apply when the frequency ratios are greater between the waves. But, perceptually, we will start to actually hear two separate waves forming into a complex signal.
 
 In the following example, you can see what happens when two waves with a $$1:2$$ ratio are combined. The frequencies are 1Hz & 2Hz. The peak amplitudes are both set at $$A=0.5$$. Notice how the summation changes.
 

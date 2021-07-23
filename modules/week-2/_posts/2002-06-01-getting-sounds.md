@@ -19,7 +19,7 @@ There are two great resources, which you should be aware of, where you can get d
 
 [The Internet Archive (archive.org)](https://archive.org/) is a non-profit working to build a "digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, [they] provide free access to researchers, historians, scholars, the print disabled, and the general public. [There] mission is to provide Universal Access to All Knowledge."
 
-This project grew from the "Wayback Machine", which was a database that aimed to catalogue and document websites, over time, on the entirety of the internet. They have grown to also include books, video, audio, software, and images. Much of the material and content that they collect and provide access to is public domain, so you are free to use this in anyway you see fit. _**{ NOTE: }** Not everything on archive.org is public domain, so just check license and permissions when contemplating the use of material/content for public or commercial release._
+This project grew from the "Wayback Machine", which was a database that aimed to catalogue and document websites, over time, on the entirety of the internet. They have grown to also include books, video, audio, software, and images. Much of the material and content that they collect and provide access to is public domain, so you are free to use this in any way you see fit. _**{ NOTE: }** Not everything on archive.org is public domain, so just check license and permissions when contemplating the use of material/content for public or commercial release._
 
 To view music on archive.org, go to;
 
@@ -33,7 +33,7 @@ After selecting an item, you should be able to preview the audio using the built
 
 Under the download options on the right, I am going to select the "OGG VORBIS" option and follow download procedures for macOS.
 
-> We have not talked about digital audio file formats yet. So, I do not expect you to know what type to download, and for the time being, we can get away with not worrying to much. I would suggest you try download the following file types, in the following order;
+> We have not talked about digital audio file formats yet. So, I do not expect you to know what type to download, and for the time being, we can get away with not worrying to0 much. I would suggest you try download the following file types, in the following order;
 >
 > - WAV
 > - AIFF
@@ -77,7 +77,7 @@ Many of the available collection is in the Public Domain, which allows you to us
 
 This collection, at the time of this writing, the [full collection contains](https://www.loc.gov/about/general-information/#year-at-a-glance) 4.2 million audio related materials and 1.9 million moving image materials.
 
-In the ever increasing digital collection, there are currently 29,032 audio items and 9,191 video items available online.
+In the ever-increasing digital collection, there are currently 29,032 audio items and 9,191 video items available online.
 
 - [Audio - Library of Congress](https://www.loc.gov/audio/)
 - [Film & Video - Library of Congress](https://www.loc.gov/film-and-videos/)
