@@ -27,9 +27,9 @@ I am the professor who is building and delivering this course. I am also the ins
 
 I am excited to work with you, and guide you through the journey introducing you to sonic art!
 
-Please feel free to leverage my virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. You can do this through my Calendly links. These are available via the  [Instructors tab]({{site.baseurl}}/instructors/).
+Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. You can do this through my Calendly links. These are available via the  [Instructors tab]({{site.baseurl}}/instructors/).
 
-For anyone wanting to setup an appointment immediately, please feel free to setup a meeting right now!
+For anyone wanting to setup an appointment immediately, please feel free to stop by my [in-person office hours]({{site.baseurl}}/instructors/#office-hours), or setup a meeting right now!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/michael-musick" style="min-width:320px;height:1000px;"></div>
@@ -56,7 +56,6 @@ In addition to myself, we will be supported with two teaching assistants this se
 
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=330%20Question)
-- [Sofia Stuart-Rasi, sofia.stuart-rasi@umconnect.umt.edu](mailto:sofia.stuart-rasi@umconnect.umt.edu?subject=330%20Question)
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
 Additionally, these TAs will be available for video meetings to assist with problems.
