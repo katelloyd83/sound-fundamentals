@@ -30,21 +30,8 @@ We are currently planning for this to occur on Billy Kautz's show, "Something El
 
 We are planning on presenting your work on:
 
-- Wednesday, April 14th
-- Wednesday, April 21st
+- Wednesday, December 8th
 
-You are **expected to be available during both of these days, from 8-10pm**. As part of these presentations, we will have you all on the online chat, interacting with listeners, as well as each other.
+You are **expected to be available during this day, from 8-10pm**. As part of these presentations, we will have you all on the online chat, interacting with listeners, as well as each other.
 
-**{ NOTE: }** All final project assignments will be do at the same time, **prior** to the first radio show, April 14th.
-
-
-
-# Spring Break
-
-In order to protect the community, the University of Montana **does not** have a traditional Spring Break this semester. This prevents students from leaving Missoula, and then potentially bringing back COVID-19 into the community after traveling. Instead, the University has scheduled a number of break days throughout the semester. However, since this is an asynchronous class, we are not able to take advantage of these one-off break days in the same way as an in-person or synchronous class. Therefore, I am planning to have one week were there is not content, and thereby, you still get a break from this class for a week.
-
-Currently, I am planning for this to occur during the 10th week of class:
-
-- March 15th through March 19th
-
-_This is subject to change as the semester progresses._ But I do intend to offer this week as a break to you from this class.
+**{ NOTE: }** All final project assignments will be do at the same time, **prior** to the radio show, likely, December 1st.
