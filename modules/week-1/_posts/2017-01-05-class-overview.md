@@ -33,7 +33,7 @@ This course will _mostly_ run as weekly modules.
 
 When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the {{ site.data.course.module-week-day }} of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, Week 2's Module runs from {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }}. Therefore, you have through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} to complete the module and submit your homework. Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3	][0] }}
+For example, Week 2's Module runs from {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }}. Therefore, you have through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} to complete the module and submit your homework. Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }}
 
 
 ## Homework

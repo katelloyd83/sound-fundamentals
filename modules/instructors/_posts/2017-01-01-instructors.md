@@ -13,6 +13,8 @@ Michael Musick built and maintains this course. Please contact Dr. Musick with a
 
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=245%20Question)
 - Office: [McGill Hall, 232](https://www.google.com/maps/place/McGill+Hall,+32+Campus+Dr,+Missoula,+MT+59812/@46.8619179,-113.9857145,16.91z/data=!3m1!5s0x535dcc33c1f50273:0xb43516d74c13fb70!4m5!3m4!1s0x535dcc33c3d4cbd5:0xd77cd4f46bdf5b89!8m2!3d46.8624266!4d-113.9836088)
+- [SVMA Bio Page - svma.umt.edu/staff_members/michael-musick-ph-d/](https://svma.umt.edu/staff_members/michael-musick-ph-d/)
+- [Personal Website - michaelmusick.com](https://michaelmusick.com)
 
 
 
@@ -22,7 +24,7 @@ Michael Musick built and maintains this course. Please contact Dr. Musick with a
 
 #### Office Hours
 
-Due to the ongoing Pandemic, I will offer both in-person and virtual/Zoom-based office hours.
+I will offer both in-person and virtual/Zoom-based office hours.
 
 **In-Person:**
 
