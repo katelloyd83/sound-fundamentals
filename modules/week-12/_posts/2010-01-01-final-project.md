@@ -11,14 +11,14 @@ topic: Final Project
 <br />
 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gM-uDFZKWpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!-- <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gM-uDFZKWpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
 
 
 <br />
 
 
 
-**Due: Tuesday, April 13th @ 11:59pm**
+**Due: {{site.data.dates.1st_draft}}**
 
 Building on all of the diverse and extensive work that you have engaged in over the course of this semester, you are expected to create a final sonic art work for this course.
 
@@ -31,16 +31,21 @@ Unless we directly asked you to change something from your Final Project Proposa
 ## Deadlines
 
 - Final Project Deadline:
-	- We are currently thinking final projects will be due: **Tuesday, April 13th**
+	- Your final project will have two deadlines, a 1st draft, and a final version. We will make comments and provide feedback after the first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
+		- 1st draft deadline: **{{ site.data.dates.1st_draft}}**
+		- Final Version Deadline: **{{ site.data.dates.final_submission}}**
+			- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE. Failure to submit on time will result in a failing grade for the course.
 	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
 	- Likewise, I will be mastering all of your final works, so that they are at the appropriate loudness levels and sound like they "belong together".
+- Final Project Proposal:
+	- Your final project proposals are due: This coming **{{ site.data.dates.final_proposal}}**.
 
 
 ## Radio Show!
 
 For the in-person version of this course, the end of the semester is marked by a public concert in which students present their final sonic artworks from the semester. Obviously, an in-person concert is not possible for the format of this course, nor in the times of COVID. Therefore, instead, the class will culminate with a radio festival presentation of your works.
 
-We are currently planning for this to occur on Billy Kautz's show, "Something Else" on KGBA this April. If you don't already, you should obviously listen to [KGBA](https://www.kbga.org). Billy's show occurs on Wednesday evenings from 8-10pm. This show highlights experimental, avant-garde, electro-acoustic, jazz, creative music, and sonic art. For more information about this show, Billy, to see playlists from the show, or to hear old interviews conducted by Billy head to the following links:
+We are currently planning for this to occur on Billy Kautz's show, "Something Else" on KGBA ({{site.data.dates.show}}). If you don't already, you should obviously listen to [KGBA](https://www.kbga.org). Billy's show occurs on Wednesday evenings from 8-10pm. This show highlights experimental, avant-garde, electro-acoustic, jazz, creative music, and sonic art. For more information about this show, Billy, to see playlists from the show, or to hear old interviews conducted by Billy head to the following links:
 
 - [Bill Kautz (DJ Silver Sprocket) on KBGA Missoula 89.9FM](https://spinitron.com/KBGA/dj/37934/Bill-Kautz-DJ-Silver-Sprocket)
 - [Billy Kautz on Mixcloud](https://www.mixcloud.com/bill-kautz/)
@@ -93,7 +98,7 @@ In addition to a digital audio file (as mentioned above) which constitutes the a
 
 ## Submission
 
-Please, upload these final project files to the Moodle _Final Project Submission Forum_.
+Please, upload your 1st draft versions of your final project files to the Moodle _1st draft - Final Project Submission Forum_.
 
 ## Classmate Responses
 
