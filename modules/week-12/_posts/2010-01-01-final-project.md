@@ -22,15 +22,11 @@ topic: Final Project
 
 
 
-**Due: {{site.data.dates.final_submission}}**
+**Due: {{site.data.dates.1st_draft}}**
 
 Building on all of the diverse and extensive work that you have engaged in over the course of this semester, you are expected to create a final sonic art work for this course.
 
-## Final Draft Revisions
 
-Please take any comments provided from your first draft and incorporate them as you iterate your art work for the final version. You are expected to reassess your work, consider whether it is accomplishing what you want it to accomplish, and push it further than what you submitted for the first draft. Please take this time to really dig in and create a piece that you feel proud about.
-
-As always, if you are having problems of have questions, please reach out to myself or the TA. 
 
 # Final Project Specs
 
@@ -57,7 +53,7 @@ Unless we directly asked you to change something from your Final Project Proposa
 
 For the in-person version of this course, the end of the semester is marked by a public concert in which students present their final sonic artworks from the semester. Obviously, an in-person concert is not possible for the format of this course, nor in the times of COVID. Therefore, instead, the class will culminate with a radio festival presentation of your works.
 
-We are currently planning for this to occur on Billy Kautz's show, "Something Else" on KGBA ({{site.data.dates.show}}). If you don't already, you should obviously listen to [KGBA](https://www.kbga.org). Billy's show occurs on Wednesday evenings from 8-10pm. This show highlights experimental, avant-garde, electro-acoustic, jazz, creative music, and sonic art. For more information about this show, Billy, to see playlists from the show, or to hear old interviews conducted by Billy head to the following links:
+We are currently planning for this to occur on Billy Kautz's show, "Something Else" on KBGA ({{site.data.dates.show}}). If you don't already, you should obviously listen to [KBGA](https://www.kbga.org). Billy's show occurs on Wednesday evenings from 8-10pm. This show highlights experimental, avant-garde, electro-acoustic, jazz, creative music, and sonic art. For more information about this show, Billy, to see playlists from the show, or to hear old interviews conducted by Billy head to the following links:
 
 - [Bill Kautz (DJ Silver Sprocket) on KBGA Missoula 89.9FM](https://spinitron.com/KBGA/dj/37934/Bill-Kautz-DJ-Silver-Sprocket)
 - [Billy Kautz on Mixcloud](https://www.mixcloud.com/bill-kautz/)
