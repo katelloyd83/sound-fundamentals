@@ -22,9 +22,17 @@ topic: Final Project
 
 
 
-**Due: {{site.data.dates.1st_draft}}**
+**Due: {{site.data.dates.final_submission}}**
 
 Building on all of the diverse and extensive work that you have engaged in over the course of this semester, you are expected to create a final sonic art work for this course.
+
+## Final Draft Revisions
+
+Please take any comments provided from your first draft and incorporate them as you iterate your art work for the final version. You are expected to reassess your work, consider whether it is accomplishing what you want it to accomplish, and push it further than what you submitted for the first draft. Please take this time to really dig in and create a piece that you feel proud about.
+
+As always, if you are having problems of have questions, please reach out to myself or the TA. 
+
+# Final Project Specs
 
 ## Originality
 
@@ -102,7 +110,7 @@ In addition to a digital audio file (as mentioned above) which constitutes the a
 
 ## Submission
 
-Please, upload your 1st draft versions of your final project files to the Moodle _1st draft - Final Project Submission Forum_.
+Please, upload your final versions to Moodle by the posted deadline!
 
 ## Classmate Responses
 
