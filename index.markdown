@@ -16,7 +16,9 @@ This considered the foundation course for any students wanting to proceed furthe
 The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information about the course, as well as student expectations.
 
 
-This course is delivered by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).
+This course was built by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).
+
+For the Spring of 2022, this course will be delivered by [Ryan Weibush]({{ site.baseurl }}/instructors/ ).
 
 
 ### Start the Course!
