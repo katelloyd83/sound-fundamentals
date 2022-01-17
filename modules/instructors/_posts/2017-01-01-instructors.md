@@ -9,7 +9,7 @@ topic: Instructor
 
 ## [Prof. Ryan Weibush](https://svma.umt.edu/staff_members/ryan-weibush/)
 
-Michael Musick built and maintains this course. Please contact Dr. Musick with any problems.
+Michael Musick built and maintains this course. Please contact Prof. Weibush or Dr. Musick with any problems.
 
 - E-Mail: [robert.weibush@mso.umt.edu](mailto:robert.weibush@mso.umt.edu?subject=245%20Question)
 
