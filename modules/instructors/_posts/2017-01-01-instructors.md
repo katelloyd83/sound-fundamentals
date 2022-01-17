@@ -26,7 +26,7 @@ I will offer both in-person and virtual/Zoom-based office hours.
 
 **In-Person:**
 
-- Manfield Library or on-campus location: Monday's 2-3PM (no appointment necessary)
+- Manfield Library or on-campus location: Mondays 2-3PM (no appointment necessary)
 
 **Zoom-Based Office Hours**
 
