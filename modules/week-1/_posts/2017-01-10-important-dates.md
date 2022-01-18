@@ -26,8 +26,8 @@ We are currently planning for this to occur on via Soundcloud
 
 We are planning on presenting your work on:
 
-- Wednesday, December 8th
+- Monday, May 9th
 
 You are **expected to be available during this day, from 8-10pm**. As part of these presentations, we will have you all on the online chat, interacting with each other.
 
-**{ NOTE: }** All final project assignments will be due at the same time, likely, December 1st.
+**{ NOTE: }** All final project assignments will be due at the same time, likely, May 9th.
