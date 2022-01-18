@@ -30,7 +30,7 @@ I will offer both in-person and virtual/Zoom-based office hours.
 
 **Zoom-Based Office Hours**
 
-- via Appointment 
+- via Appointment
 
 
 
@@ -49,7 +49,3 @@ Additionally, the TA will be available for video meetings and face-to-face meeti
 ### Jared Benge
 
 - [Jared Benge](mailto:jared.benge@umconnect.umt.edu?subject=330%20Question)
-
-
-
-{% endcomment %}
