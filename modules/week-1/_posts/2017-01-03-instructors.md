@@ -10,8 +10,12 @@ topic: Instructor Information
 {% comment %}
 The below video is semester specific and should be replaced/updated every semester
 {% endcomment %}
+
+{% comment %}
+
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/11Q7tY1B1tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+{% endcomment %}
 
 
 
@@ -20,6 +24,11 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
 
+## Ryan Weibush
+
+
+
+{% comment %}
 
 ## Michael Musick
 
@@ -59,3 +68,5 @@ If you are unable to solve problems on your own or through the course Moodle for
 - [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
 
 Additionally, these TAs will be available for video meetings to assist with problems.
+
+{% endcomment %}
