@@ -48,4 +48,4 @@ Additionally, the TA will be available for video meetings and face-to-face meeti
 
 ### Jared Benge
 
-- [Jared Benge](mailto:jared.benge@umconnect.umt.edu?subject=330%20Question)
+- [Jared Benge](mailto:jared.benge@umconnect.umt.edu?subject=MART245%20Question)
