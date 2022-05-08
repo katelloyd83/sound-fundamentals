@@ -14,11 +14,6 @@ topic: Final Project
 
 
 
-<!-- Remove after fall 2021. It is specific to this semester. -->
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xxxS_eQ3p_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<br />
 
 
 
