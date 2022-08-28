@@ -9,7 +9,7 @@ topic: Instructor
 
 ## [Prof. Ryan Weibush](https://svma.umt.edu/staff_members/ryan-weibush/)
 
-Michael Musick built and maintains this course. Please contact Prof. Weibush or Dr. Musick with any problems.
+Dr. Michael Musick built this course, which is maintained by Ryan Weibush. Please contact Prof. Weibush with any problems.
 
 - E-Mail: [robert.weibush@mso.umt.edu](mailto:robert.weibush@mso.umt.edu?subject=245%20Question)
 
@@ -26,7 +26,7 @@ I will offer both in-person and virtual/Zoom-based office hours.
 
 **In-Person:**
 
-- Manfield Library or on-campus location: Mondays 2-3PM (no appointment necessary)
+- DAH 431: Wednesdays 1-3 PM (no appointment necessary)
 
 **Zoom-Based Office Hours**
 
