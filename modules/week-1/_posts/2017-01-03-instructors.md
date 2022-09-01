@@ -58,6 +58,7 @@ In addition to myself, we will be supported with a teaching assistant this semes
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
 - [jared.benge@umconnect.umt.edu]
+- [matthew.knight@umconnect.umt.edu]
 
 Additionally, these TAs will be available for video meetings to assist with problems.
 
