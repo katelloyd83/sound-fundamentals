@@ -54,4 +54,4 @@ For this coming Friday, please submit the following:
 
 We will review these proposals and respond IF we see any problems or concerns. If you do not hear from us, please proceed with your project.
 
-_If you have questions, need ideas, or have concerns, please setup an [office hours appointment with me](https://calendly.com/michael-musick/).
+_If you have questions, need ideas, or have concerns, please setup an appointment to meet with me [robert.weibush@mso.umt.edu]
