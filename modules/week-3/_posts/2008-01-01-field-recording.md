@@ -18,6 +18,15 @@ Field recording may be a capture of the soundscape of a particular location at a
 
 Likewise, field recordings may work to capture individual elements in nature, such as bird songs or the sound of individual objects. Unlike soundscapes where the goal is to capture all of the sonic events interacting and in relation to each other, these field recordings are concerned with getting "clean" recordings of individual sources, and aim to minimize the capture of competing sources.
 
+Let's first gain an understanding of the history of this practice by reading Maria Chavez & Kristina Warren's short article on it's history:
+
+> ## A Sound Artist's Breakdown of Field Recording over History
+> 
+> Please read the following Article by Maria Chavez and Kristina Warren
+> [Chavez, Maria & Warren, Kristina. A Sound Artist's Breakdown of Field Recording Over History. 2022.] (https://moodle.umt.edu/pluginfile.php/3319404/mod_resource/content/0/a-sound-artists-breakdown-of-field-recording-over-history.pdf)
+
+
+
 ## Ego in Field Recording
 
 Field recordings may also work to capture small sounds, unusual sounds, or play with our perceptions of space and size. Field recording used to be approached from the philosophical view that the recordist should attempt to capture the world impartially, in order to represent it as it truly is/was. Early groups such as the World Soundscape Project (WSP), that you learned about last week, followed these types of principles. They believed that the recordist should choose equipment and recording techniques that were transparent. However, this philosophical ideal is impossible. As humans, we make choices about how to capture an individual phenomenon. Even small choices like where to place the microphone, or the angle that it is placed will change the resulting capture. This is further complicated by the fact that equipment choices will all result in different sonic fingerprints being imprinted on the resulting recordings (we will discuss why this happens more in the coming weeks). 
