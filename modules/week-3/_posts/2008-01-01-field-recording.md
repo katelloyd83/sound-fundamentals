@@ -23,7 +23,7 @@ Let's first gain an understanding of the history of this practice by reading Mar
 > ## A Sound Artist's Breakdown of Field Recording over History
 > 
 > Please read the following Article by Maria Chavez and Kristina Warren
-> [Chavez, Maria & Warren, Kristina. A Sound Artist's Breakdown of Field Recording Over History. 2022.] (https://moodle.umt.edu/pluginfile.php/3319404/mod_resource/content/0/a-sound-artists-breakdown-of-field-recording-over-history.pdf)
+> [[Chavez, Maria & Warren, Kristina. A Sound Artist's Breakdown of Field Recording Over History. 2022.]](https://moodle.umt.edu/pluginfile.php/3319404/mod_resource/content/0/a-sound-artists-breakdown-of-field-recording-over-history.pdf) 
 
 
 
