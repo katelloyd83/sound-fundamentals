@@ -41,7 +41,7 @@ In addition to myself, we will be supported with teaching assistants this semest
 
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [Kate Lloyd, kate.lloyd@umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
+- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 - [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
 
 
