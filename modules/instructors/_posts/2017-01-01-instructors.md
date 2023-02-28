@@ -11,7 +11,7 @@ topic: Instructor
 
 Dr. Michael Musick built this course, which is maintained by Ryan Weibush. Please contact Prof. Weibush with any problems.
 
-- E-Mail: [robert.weibush@mso.umt.edu](mailto:robert.weibush@umconnect.umt.edu?subject=245%20Question)
+- E-Mail: [robert.weibush@umconnect.umt.edu](mailto:robert.weibush@umconnect.umt.edu?subject=245%20Question)
 
 
 
