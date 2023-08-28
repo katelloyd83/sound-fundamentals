@@ -1,14 +1,15 @@
-title: Intro to Sonic Art, MART 245
-title-short: Intro to Sonic Art
-description: Broad introduction to working with, creating, and discussing sonic art as well as audio generally.
+title: Sound Production & Design Fundamentals, MART 245
+title-short: Sound Fundamentals
+description: Broad introduction to working with, creating, and discussing sound art as well as audio generally.
 institution: University of Montana,</br>School of Visual and Media Arts
 institution-short: SVMA | Montana
 
 infoModules: [syllabus, instructors, help]
 
-module-week-day: Tuesday
+module-week-day: Monday
 
-modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13]
+modules: [week-1, week-2]
+# modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13]
 # modules: [week-11, week-12, week-13]
 #  modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12]
 # modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]
