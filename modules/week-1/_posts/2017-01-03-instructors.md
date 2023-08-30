@@ -44,10 +44,11 @@ For anyone wanting to setup an appointment immediately, please feel free to stop
 > # Bio
 >
 > Kate Lloyd is a second-year graduate student in the Media Arts department. I have over 15 years of experience working in the performing arts: as a touring musician, stagecraft for theater, field recordist and sound designer for film, a foley artist for live broadcasting, and a technical director. I've also served as an audio/lighting engineer for live music production venues.
+
 Current Work & Research @ UM: I currently serve as the Sound Studio Manager and assistant to the media equipment room.
+
 Last fall, I was the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where I also specialized in soundscapes for sound design.
 My current research interests include sound for games, immersive audio, and mobile applications for mental health.
-
 
 >
 
