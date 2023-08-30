@@ -1,10 +1,10 @@
-# MART 245 - Intro to Sonic Art | Content Website
+# MART 245 - Intro to Sound Production & Design | Content Website
 
-This is the web-based version of Intro to Sonic Art (MART 245) at the School of Visual and Media Arts, University of Montana.
+This is the web-based version of Intro to Sound Production & Design(MART 245) at the School of Visual and Media Arts, University of Montana.
 
 
 
-- [Intro to Sonic Art Website](https://montana-media-arts.github.io/intro-to-sonic-arts)
+- [Intro to Sound Production & Design Website](https://montana-media-arts.github.io/sound-fundamentals/)
 
 
 ### Updated By:
