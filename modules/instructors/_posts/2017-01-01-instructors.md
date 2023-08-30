@@ -7,11 +7,11 @@ topic: Instructor
 
 <!-- # Instructors -->
 
-## [Prof. Ryan Weibush](https://svma.umt.edu/staff_members/ryan-weibush/)
+## [Kate Lloyd)
 
 Dr. Michael Musick built this course, which is maintained by Ryan Weibush. Please contact Prof. Weibush with any problems.
 
-- E-Mail: [robert.weibush@umconnect.umt.edu](mailto:robert.weibush@umconnect.umt.edu?subject=245%20Question)
+- E-Mail: [kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
 
 
@@ -26,7 +26,7 @@ I will offer both in-person and virtual/Zoom-based office hours.
 
 **In-Person:**
 
-- DAH 431: Wednesdays 1-3 PM (no appointment necessary)
+- To schedule an appoint please send me an email or TA Cole Grant an email
 
 **Zoom-Based Office Hours**
 
@@ -41,8 +41,8 @@ In addition to myself, we will be supported with teaching assistants this semest
 
 If you are unable to solve problems on your own or through the course Moodle forum (more to come on that later), you should e-mail a TA for help.
 
-- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
-- [Matthew Knight, matthew.knight@umconnect.umt.edu](mailto:matthew.knight@umconnect.umt.edu?subject=245%20Question)
+- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
+
 
 
 Additionally, the TA will be available for video meetings and face-to-face meetings to assist with problems. Please set these appointments up individually with the TA.
