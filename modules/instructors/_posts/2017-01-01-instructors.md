@@ -9,7 +9,7 @@ topic: Instructor
 
 ## [Kate Lloyd)
 
-Dr. Michael Musick built this course, which is maintained by Ryan Weibush. Please contact Prof. Weibush with any problems.
+Dr. Michael Musick built this course, which is maintained by Kate Lloyd. Please contact Kate Lloyd with any problems.
 
 - E-Mail: [kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
