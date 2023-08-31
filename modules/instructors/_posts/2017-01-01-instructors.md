@@ -9,16 +9,14 @@ topic: Instructor
 
 ## [Kate Lloyd)
 
+Instructor Bio: My name is Kate Lloyd, and I am a second-year graduate student in the Media Arts department. I have over 15 years of experience working in the performing arts: as a touring musician, stagecraft for theater, field recordist and sound designer for film, a foley artist for live broadcasting, and a technical director. I've also served as an audio/lighting engineer for live music production venues.
+
+Last fall, I was the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where I also specialized in soundscapes for sound design.
+
+Current Work & Research @ UM: My current research interests include sound for games, immersive audio, and mobile applications for mental health.
+I currently serve as the Sound Studio Manager and assistant to the media equipment room.
+
 Dr. Michael Musick built this course, which is maintained by Kate Lloyd. Please contact Kate Lloyd with any problems.
-
-## [Instructor Bio)
-- Instructor Bio: My name is Kate Lloyd, and I am a second-year graduate student in the Media Arts department. I have over 15 years of experience working in the performing arts: as a touring musician, stagecraft for theater, field recordist and sound designer for film, a foley artist for live broadcasting, and a technical director. I've also served as an audio/lighting engineer for live music production venues.
-- Last fall, I was the production manager and recording/mixing engineer for the University Graduate School Podcast, "Confluence," where I also specialized in soundscapes for sound design.
-- Current Work & Research @ UM: My current research interests include sound for games, immersive audio, and mobile applications for mental health.
--I currently serve as the Sound Studio Manager and assistant to the media equipment room.
-
-
-
 
 - E-Mail: [kate.lloyd@umconnect.umt.edu](mailto:kate.lloyd@umconnect.umt.edu?subject=245%20Question)
 
