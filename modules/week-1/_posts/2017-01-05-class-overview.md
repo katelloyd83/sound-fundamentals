@@ -78,13 +78,17 @@ When you have problems in this course, you have a number of solutions available 
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
 {% endcomment %}
+
 3. Get help from one of our Graduate Teaching Assistants;
 	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
+
 4. Get help from the Instructor;
 	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
+
 5. Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
-    - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).
+    - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]  ({{site.baseurl}}/instructors/#Office-Hours).
+    
     - Or to come by my office for in-person office hours. (It would be great to meet you in person)
     - You may also email me. (I will check my email at least once a day)
         - [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=245%20Question)
