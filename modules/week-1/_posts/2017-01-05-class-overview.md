@@ -80,7 +80,9 @@ When you have problems in this course, you have a number of solutions available 
 {% endcomment %}
 3. Get help from one of our Graduate Teaching Assistants;
 	- [Cole Grant, cole.grant@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
-4. Get help from the professor [Michael Musick]({{site.baseurl}}/instructors/)
+4. Get help from the Instructor;
+	- [Kate Lloyd, kate.lloyd@umconnect.umt.edu](mailto:cole.grant@umconnect.umt.edu?subject=245%20Question)
+5. Get help from the Director [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
     - One way to get a hold of me is to schedule a zoom, office hours appointment with me via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).
     - Or to come by my office for in-person office hours. (It would be great to meet you in person)
