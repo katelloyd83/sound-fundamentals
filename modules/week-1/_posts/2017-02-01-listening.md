@@ -44,7 +44,7 @@ Listening requires active work and focus. As an example, _Listening_ is recogniz
 _Listening_ requires that a person spends mental energy making meaning of the sounds they perceive through hearing.
 
 > “Hearing is something that happens to us because we have ears – it is our primary sense organ. Listening is something we develop and cultivate our whole life, and maybe all of our lifetimes. Listening is what creates culture. Listening is very diverse and takes many forms as cultures take many forms.”
-> – [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros), [Deep Listening: A Composer’s Sound Practice](https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf), 2005.
+> – [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros), from _Deep Listening: A Composer’s Sound Practice_, 2005.
 
 
 
@@ -64,6 +64,6 @@ The above content was adapted from:
 
 <ol>
 <li><a href="https://kim-cohen.com/wp-content/uploads/2020/07/2009_Kim-Cohen_In-The-Blink-of-an-Ear.pdf">Kim-Cohen, Seth. In the Blink of an Ear: Toward a Non-Cochlear Sonic Art. The Continuum International Publishing Group Inc, 2009, Available from: https://kim-cohen.com/wp-content/uploads/2020/07/2009_Kim-Cohen_In-The-Blink-of-an-Ear.pdf.</a></li>
-<li><a href="https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf">Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005. Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
+<li><a href="https://moodle.umt.edu/pluginfile.php/3785020/mod_resource/content/0/Oliveros%20-%202005%20-%20Deep%20Listening%20A%20Composer’s%20Sound%20Practice.pdf">Oliveros, Pauline. Deep Listening: A Composer’s Sound Practice. iUniverse, Inc., 2005. Available from: https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf</a></li>
 </ol>
 </div>
