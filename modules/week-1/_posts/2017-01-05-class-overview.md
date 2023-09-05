@@ -77,6 +77,7 @@ When you have problems in this course, you have a number of solutions available 
 3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
+{% endcomment %}
 
 
 3. Get help from one of our Graduate Teaching Assistants;
