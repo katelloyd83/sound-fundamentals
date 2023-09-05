@@ -12,7 +12,7 @@ topic: The Three Listening Modes
 
 Please read the following article on _The Three Listening Modes_ by Michel Chion.
 
-- [Article Link via Moodle](https://moodle.umt.edu/pluginfile.php/3440453/mod_resource/content/0/Chion-Modes_Of_Listening.pdf)
+- [Article Link via Moodle](https://moodle.umt.edu/pluginfile.php/3769849/mod_resource/content/0/Chion-Modes_Of_Listening.pdf)
     - Excerpt from: _Chion, Michel, and Claudia Gorbman. “Audio-Vision: Sound on Screen.” Audio-Vision: Sound on Screen, 2019._
 
 Please particular attention so that you can discuss;
@@ -27,6 +27,6 @@ Please particular attention so that you can discuss;
 The above content was adapted from:
 
 <ol>
-<li><a href="https://cup.columbia.edu/book/audio-vision/9780231078993">Chion, Michel, and Claudia Gorbman. “Audio-Vision: Sound on Screen.” Audio-Vision: Sound on Screen, 2019, doi:10.7312/chio18588.</a></li>
+<li><a href=""https://cup.columbia.edu/book/audio-vision-sound-on-screen/9780231185899">Chion, Michel, and Claudia Gorbman. “Audio-Vision: Sound on Screen.” Audio-Vision: Sound on Screen, 2019, doi:10.7312/chio18588.</a></li>
 </ol>
 </div>
