@@ -33,7 +33,7 @@ On the official [Deep Listening website](https://www.deeplistening.rpi.edu/deep-
 >
 > Deep Listening is a birthright for all humans.
 >
-> Excerpt from ["Quantum Listening: From Practice to Theory (To Practice Practice)" by Pauline Oliveros. SoundArtArchive, December 1999.](https://soundartarchive.net/articles/Oliveros-1999-Quantum_listening.pdf)
+> Excerpt from ["Quantum Listening: From Practice to Theory (To Practice Practice)" by Pauline Oliveros. SoundArtArchive, December 1999.](https://s3.amazonaws.com/arena-attachments/736945/19af465bc3fcf3c8d5249713cd586b28.pdf)
 
 ## Pauline in Her Own Words
 
