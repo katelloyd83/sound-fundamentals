@@ -51,4 +51,5 @@ The below image is one example of a microphone being worn in my ear. (I recorded
 
 Soundwalks can also focus on non-traditional types of sonic events. The following link discusses the ideas of soundwalks in relation to a different kind of sound-event.
 
-- [The “Electrical Walks” of Christina Kubisch](http://www.cabinetmagazine.org/issues/21/kubisch.php)
+- [The “Electrical Walks” of Christina Kubisch](https://christinakubisch.de/electrical-walks)
+
