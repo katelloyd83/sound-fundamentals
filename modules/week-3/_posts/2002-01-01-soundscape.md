@@ -28,7 +28,7 @@ As a participant or listener, a soundscape is a time-based event, in which you _
 
 R. Murray Schafer is a Canadian composer, who is best known for his work defining, promoting, protecting, and raising awareness of _soundscapes_. Please, put on your good headphones, and watch the following documentary where he discusses the idea of a soundscape and listening.
 
-<comment><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rOlxuXHWfHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></comment>
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="[https://www.youtube.com/embed/rOlxuXHWfHw](https://www.nfb.ca/film/listen/embed/player/?player_mode=&embed_mode=0&auto_focus=1&context_type=film)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
