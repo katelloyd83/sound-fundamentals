@@ -9,7 +9,7 @@ topic: Synthesis
 
 In sonic art and electroacoustic music, synthesis is the act of creating sound through mechanical or computational means. This is in opposition to ways which we have primarily examined up to this point in the semester of capturing sound using a microphone, then processing and utilizing it in the DAW.
 
-The [Tone Generator]({{site.baseurl}}/modules/week-7/oscillator/) plugins from last week are examples of synthesis in action. These generators can create one of six sounds (sine wave signal, saw up/down wave signal, triangle wave signal, square wave signal, and white noise). Each of the signals that the generator creates are synthesized from computational means that calculate the signal and then create it from nothing.
+The [Tone Generator](https://montana-media-arts.github.io/sound-fundamentals/modules/week-7/install-vsts/) plugins from last week are examples of synthesis in action. These generators can create one of six sounds (sine wave signal, saw up/down wave signal, triangle wave signal, square wave signal, and white noise). Each of the signals that the generator creates are synthesized from computational means that calculate the signal and then create it from nothing.
 
 In the early days of sonic art and electroacoustic music synthesis techniques were rather simple, involving oscillators, filters, and delays. However, by the mid-20th century engineers such as [Robert Moog](https://www.moogmusic.com/news/dr-robert-moog) and [Don Buchla](https://buchla.com/history/) were working to create massive, modular synthesizers, capable of creating other-wordly sounds.
 
