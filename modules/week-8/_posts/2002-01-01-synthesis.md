@@ -75,7 +75,7 @@ One of the first commercially successful compositions for synthesizer was by Mor
 
 - [Morton Subotnick on 50 years of Silver Apples of the Moon](https://www.factmag.com/2017/07/13/morton-subotnick-silver-apples-of-the-moon/) (_Please note, there are a number of videos within the article you should watch._)
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3G1hRNLlYpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!--<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3G1hRNLlYpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>-->
 
 # **_{ TODO: }_**
 
