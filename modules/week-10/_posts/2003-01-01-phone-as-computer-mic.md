@@ -24,7 +24,7 @@ In Reaper, you would now select this new device as your audio input device.
 
 ## Mac
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_4JANPU-9yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://www.youtube.com/embed/_4JANPU-9yo
 
 
 On mac, assuming you have an iOS device, you can send audio to your Mac automatically.
