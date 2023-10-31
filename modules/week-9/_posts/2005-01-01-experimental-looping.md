@@ -56,7 +56,7 @@ Later on in the above video, Terry also mentions his work "In C". This piece is 
 
 The following is a longer video. But hopefully you start at 1:39:52, which is a performance by La Monte Young's "Theater of Eternal Music" performing "The Tortoise, His Dream, and Journeys". (You can optionally read more about this work from [La Monte's Website](https://www.melafoundation.org/theatre.pdf))
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=bapAGrWpaLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+www.youtube.com/watch?v=bapAGrWpaLw
 
 The following link is for the reference to Pandit Pran Nath, and his performance of Classical Indian music.
 
