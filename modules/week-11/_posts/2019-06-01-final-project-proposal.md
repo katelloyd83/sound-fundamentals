@@ -47,11 +47,11 @@ There are a number of factors for the final format for you to consider.
 
 ## Deliverables for Proposal
 
-For this coming Friday, please submit the following:
+For this coming Monday, please submit the following:
 
 1. A written description of what you propose to do for your final project.
 2. (_optional_): A brief, proof-of-concept, or mock-up of what you are proposing
 
 We will review these proposals and respond IF we see any problems or concerns. If you do not hear from us, please proceed with your project.
 
-_If you have questions, need ideas, or have concerns, please setup an appointment to meet with me [robert.weibush@mso.umt.edu]
+_If you have questions, need ideas, or have concerns, please setup an appointment to meet with me [kate.lloyd@umconnect.umt.edu]
