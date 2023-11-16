@@ -81,7 +81,7 @@ Here's what you will typically need:
 
 The first thing we do is check the batteries and storage space on our recording device, be it a phone, audio interface, or personal recorder like a Zoom or Tascam. Running out of space or batteries is the last thing you want to have happen in the middle of recording an interview, song, or narration.
 
-We then make sure we have the appropriate parameters on our recording device. Radio standard is 44.1K (sample rate), 16-bit (bit depth), and .wav (file type), which is also CD quality. This varies depending on the type of project you're working on. (_{ NOTE: } Following new standards, you should capture audio at 24-bits, then if necessary for the final medium, you can dither to a lower bit-depth, such as 16-bits._)
+We then make sure we have the appropriate parameters on our recording device. Radio standard is 44.1K (sample rate), 16-bit (bit depth), and .wav (file type), which is also CD quality. This varies depending on the type of project you're working on. (_{ NOTE: } Following new standards, you should capture/record audio at 24-bits, then if necessary for the final medium, you can export/bounce to a lower bit-depth, such as 16-bits. For example, I record at 48k (sample rate and 24-bits. When rendering/exprting/bouncing I keep the 24-bits but change 48k sample rate to 44.1k. In theory, and with much debate--recording at a higher sample rate  will improve the overall quality of a mix when bouncing down to a lower sample rate. In the end, I feel It is could practice to mix this way._)
 
 ### Acoustic Treatment and Reduction of Background Noise
 
