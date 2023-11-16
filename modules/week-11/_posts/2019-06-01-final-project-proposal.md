@@ -18,8 +18,9 @@ The intent of this final project is for you to create an original sonic art work
 ## Deadlines
 
 - Final Project Deadline:
-	- Your final project will have three deadlines, a propsal draft(written or rough audio>), a audio rough drafty version. We will make comments and provide feedback after the proposal and first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
-		- 1st draft deadline: **{{ site.data.dates.1st_draft}}**
+	- Your final project will have three deadlines, a propsal draft-written or rough audio, an audio rough draft version, and final project submission. We will make comments and provide feedback after the proposal and first draft, and you will be expected to make appropriate adjustments and resubmit by the final version submission deadline.
+		- 1st propsal deadline: **{{ site.data.dates.1st_proposal}**
+		- 2nd audio draft: **{{ site.data.dates.2nd_draft}**
 		- Final Version Deadline: **{{ site.data.dates.final_submission}}**
 			- Please note: I will need to spend Wednesday during the day preparing your works for radio presentation that evening. As such, we CANNOT ACCEPT ANY LATE WORK FOR THIS DEADLINE. Failure to submit on time will result in a failing grade for the course.
 	- This will allow me and the TA's to listen to each piece, to ensure that it is radio appropriate.
